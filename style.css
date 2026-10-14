@@ -1,0 +1,448 @@
+/* ============ Palette ============
+   White:   #ffffff / #f7f7f7
+   Black:   #111111 / #1a1a1a
+   Orange:  #ff6a00 / #e85f00
+================================== */
+
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=JetBrains+Mono:wght@500;700&display=swap');
+
+html, body, [class*="css"] {
+    font-family: 'Manrope', -apple-system, sans-serif;
+}
+
+.stApp {
+    background: #ffffff;
+    color: #111111;
+}
+
+/* Hide default streamlit chrome for a cleaner look */
+#MainMenu, footer, header {visibility: hidden;}
+
+.block-container {
+    padding-top: 2.2rem;
+    padding-bottom: 3rem;
+    max-width: 720px;
+}
+
+/* ---------- Header ---------- */
+.app-header {
+    text-align: center;
+    margin-bottom: 1.6rem;
+}
+
+.app-header-badge {
+    display: inline-block;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 0.72rem;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: #ff6a00;
+    border: 1px solid #ff6a00;
+    border-radius: 999px;
+    padding: 0.25rem 0.9rem;
+    margin-bottom: 0.9rem;
+}
+
+.app-header h1 {
+    font-size: 1.9rem;
+    font-weight: 800;
+    color: #111111;
+    line-height: 1.25;
+    margin: 0.2rem 0 0.7rem 0;
+}
+
+.app-subtitle {
+    color: #111111;
+    font-size: 0.95rem;
+    line-height: 1.5;
+    max-width: 480px;
+    margin: 0 auto;
+}
+
+/* ---------- Field labels ---------- */
+.field-label {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 0.72rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: #e85f00;
+    margin-bottom: 0.35rem;
+    font-weight: 700;
+}
+
+/* ---------- Streamlit widget overrides ---------- */
+div[data-baseweb="select"] > div {
+    background-color: #ffffff !important;
+    border: 1.5px solid #dddddd !important;
+    border-radius: 10px !important;
+    color: #111111 !important;
+    transition: border-color 0.15s ease;
+}
+
+div[data-baseweb="select"] > div:hover {
+    border-color: #ff6a00 !important;
+}
+
+div[data-baseweb="select"] input {
+    color: #111111 !important;
+}
+
+div[data-baseweb="popover"] li {
+    background-color: #ffffff !important;
+    color: #111111 !important;
+}
+
+div[data-baseweb="popover"] li:hover {
+    background-color: #ff6a00 !important;
+    color: #ffffff !important;
+}
+
+/* Selected option highlighting */
+div[aria-selected="true"] {
+    background-color: #fff1e5 !important;
+    color: #e85f00 !important;
+}
+
+/* ---------- Divider ---------- */
+.divider {
+    height: 1px;
+    background: linear-gradient(90deg, transparent, #dddddd, transparent);
+    margin: 1.6rem 0;
+}
+
+/* ---------- Result card ---------- */
+.result-card {
+    background: #fafafa;
+    border: 1px solid #e5e5e5;
+    border-left: 4px solid #ff6a00;
+    border-radius: 14px;
+    padding: 1.5rem 1.6rem 1.7rem 1.6rem;
+    margin-bottom: 1.2rem;
+}
+
+.result-article {
+    font-family: 'JetBrains Mono', monospace;
+    color: #ff6a00;
+    font-size: 0.85rem;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    margin-bottom: 0.25rem;
+}
+
+.result-name {
+    color: #111111;
+    font-size: 1.15rem;
+    font-weight: 700;
+    line-height: 1.35;
+    margin-bottom: 1.2rem;
+}
+
+.no-data {
+    color: #111111;
+    font-size: 0.95rem;
+    background: #f7f7f7;
+    border: 1px dashed #dddddd;
+    border-radius: 10px;
+    padding: 1rem 1.1rem;
+    line-height: 1.5;
+}
+
+/* ---------- Total caption ---------- */
+.total-caption {
+    text-align: center;
+    color: #111111;
+    font-size: 0.92rem;
+    padding: 0.4rem 0 1.1rem 0;
+}
+
+.total-caption span {
+    color: #ff6a00;
+    font-weight: 700;
+    font-family: 'JetBrains Mono', monospace;
+}
+
+/* ---------- Metric grid (count + % together, per parameter) ---------- */
+.metric-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0.7rem;
+    margin-bottom: 0.7rem;
+}
+
+.metric-card {
+    background: #ffffff;
+    border: 1px solid #e5e5e5;
+    border-left: 3px solid #cccccc;
+    border-radius: 12px;
+    padding: 0.85rem 1rem;
+}
+
+.metric-card.featured {
+    grid-column: 1 / -1;
+    background: #fff5eb;
+    border: 1px solid #ffd9b3;
+    border-left: 4px solid #ff6a00;
+    padding: 1.1rem 1.2rem;
+}
+
+.metric-label {
+    font-size: 0.78rem;
+    color: #111111;
+    line-height: 1.3;
+    margin-bottom: 0.5rem;
+}
+
+.metric-card.featured .metric-label {
+    color: #e85f00;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    font-size: 0.75rem;
+}
+
+.metric-row {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 0.5rem;
+}
+
+.metric-count {
+    font-family: 'JetBrains Mono', monospace;
+    font-weight: 700;
+    color: #111111;
+    font-size: 1.15rem;
+}
+
+.metric-card.featured .metric-count {
+    font-size: 2.1rem;
+}
+
+.metric-pct {
+    font-family: 'JetBrains Mono', monospace;
+    font-weight: 700;
+    color: #e85f00;
+    font-size: 1.15rem;
+    flex-shrink: 0;
+}
+
+.metric-card.featured .metric-pct {
+    font-size: 1.6rem;
+    color: #ff6a00;
+}
+
+/* accent left borders per category */
+.metric-card.m-convicted  { border-left-color: #999999; }
+.metric-card.m-rehab      { border-left-color: #ff8c33; }
+.metric-card.m-nonrehab   { border-left-color: #e85f00; }
+.metric-card.m-medical    { border-left-color: #bbbbbb; }
+
+.metric-note {
+    color: #111111;
+    font-size: 0.78rem;
+    text-align: center;
+    padding: 0.4rem 0 0.2rem 0;
+}
+
+/* ---------- Trend block ---------- */
+.trend-title {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 0.78rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: #e85f00;
+    margin: 1.6rem 0 0.8rem 0.1rem;
+}
+
+.trend-block {
+    background: #fafafa;
+    border: 1px solid #e5e5e5;
+    border-radius: 14px;
+    padding: 1rem 1.2rem;
+}
+
+.trend-row {
+    display: flex;
+    align-items: center;
+    gap: 0.8rem;
+    padding: 0.45rem 0;
+    border-bottom: 1px solid #ededed;
+}
+
+.trend-row:last-child {
+    border-bottom: none;
+}
+
+.trend-row.active .trend-year,
+.trend-row.active .trend-pct {
+    color: #ff6a00;
+}
+
+.trend-year {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 0.82rem;
+    color: #111111;
+    width: 3rem;
+    flex-shrink: 0;
+}
+
+.trend-bar-track {
+    flex: 1;
+    height: 8px;
+    background: #eeeeee;
+    border-radius: 999px;
+    overflow: hidden;
+}
+
+.trend-bar-fill {
+    height: 100%;
+    background: linear-gradient(90deg, #ff6a00, #ff8c33);
+    border-radius: 999px;
+    transition: width 0.4s ease;
+}
+
+.trend-pct {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 0.82rem;
+    color: #111111;
+    width: 3.6rem;
+    text-align: right;
+    flex-shrink: 0;
+}
+
+/* ---------- Sentencing sizes (form 10.3.1) ---------- */
+.sentencing-wrap {
+    padding-top: 0.2rem;
+    background: #fafafa;
+    border: 1px solid #e5e5e5;
+    border-radius: 14px;
+    padding: 1rem 1.2rem 0.6rem 1.2rem;
+}
+
+.sentencing-wrap .sentencing-block {
+    background: transparent;
+    border: none;
+    padding: 0;
+}
+
+.sentencing-title {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 0.76rem;
+    letter-spacing: 0.03em;
+    color: #e85f00;
+    font-weight: 700;
+    margin: 1.1rem 0 0.6rem 0;
+}
+
+.sentencing-block {
+    background: #fafafa;
+    border: 1px solid #e5e5e5;
+    border-radius: 12px;
+    padding: 0.7rem 1rem;
+}
+
+.bucket-row {
+    display: flex;
+    align-items: center;
+    gap: 0.7rem;
+    padding: 0.35rem 0;
+    border-bottom: 1px solid #ededed;
+}
+
+.bucket-row:last-child {
+    border-bottom: none;
+}
+
+.bucket-label {
+    font-size: 0.8rem;
+    color: #111111;
+    width: 6.4rem;
+    flex-shrink: 0;
+}
+
+.bucket-bar-track {
+    flex: 1;
+    height: 8px;
+    background: #eeeeee;
+    border-radius: 999px;
+    overflow: hidden;
+}
+
+.bucket-bar-fill {
+    height: 100%;
+    background: linear-gradient(90deg, #ff6a00, #ff8c33);
+    border-radius: 999px;
+}
+
+.bucket-count {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 0.78rem;
+    color: #111111;
+    width: 3.4rem;
+    text-align: right;
+    flex-shrink: 0;
+}
+
+.bucket-pct {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 0.78rem;
+    font-weight: 700;
+    color: #ff6a00;
+    width: 3.2rem;
+    text-align: right;
+    flex-shrink: 0;
+}
+
+.sentencing-note {
+    font-size: 0.8rem;
+    color: #111111;
+    padding: 0.5rem 0.2rem 0.2rem 0.2rem;
+}
+
+/* ---------- Footer ---------- */
+.footer-note {
+    margin-top: 2.2rem;
+    padding-top: 1.2rem;
+    border-top: 1px solid #ededed;
+    color: #111111;
+    font-size: 0.78rem;
+    line-height: 1.5;
+    text-align: center;
+}
+
+/* ---------- Caveats for incomplete data ---------- */
+.year-warning {
+    margin-top: 1.4rem;
+    padding: 0.9rem 1.1rem;
+    border-left: 4px solid #ff6a00;
+    background: #fff4ec;
+    color: #111111;
+    font-size: 0.82rem;
+    line-height: 1.55;
+    border-radius: 6px;
+}
+
+.no-data-unpublished {
+    border: 1px dashed #ff6a00;
+    background: #fff4ec;
+}
+
+.metric-note-warn {
+    color: #e85f00;
+    font-weight: 600;
+}
+
+/* ---------- Intro note under the title ---------- */
+.app-intro {
+    margin: 1rem auto 0 auto;
+    max-width: 560px;
+    padding: 0.7rem 1rem;
+    border-left: 3px solid #ff6a00;
+    background: #f7f7f7;
+    color: #111111;
+    font-size: 0.8rem;
+    line-height: 1.5;
+    text-align: left;
+    border-radius: 6px;
+}

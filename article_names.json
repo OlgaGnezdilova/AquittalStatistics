@@ -1,0 +1,2318 @@
+{
+ "105": {
+  "name": "Убийство",
+  "name_en": "Murder",
+  "display": "Ст. 105 — Убийство",
+  "display_en": "Art. 105 — Murder"
+ },
+ "106": {
+  "name": "Убийство матерью новорожденного ребенка",
+  "name_en": "Murder of a Newborn Child by the Mother",
+  "display": "Ст. 106 — Убийство матерью новорожденного ребенка",
+  "display_en": "Art. 106 — Murder of a Newborn Child by the Mother"
+ },
+ "107": {
+  "name": "Убийство, совершенное в состоянии аффекта",
+  "name_en": "Murder Committed in the Heat of Passion",
+  "display": "Ст. 107 — Убийство, совершенное в состоянии аффекта",
+  "display_en": "Art. 107 — Murder Committed in the Heat of Passion"
+ },
+ "108": {
+  "name": "Убийство, совершенное при превышении пределов необходимой обороны либо при превышении мер, необходимых для задержания лица, совершившего преступление",
+  "name_en": "Murder Committed in Excess of the Necessary Limits of Self-Defence or of the Measures Necessary to Apprehend a Person Who Has Committed a Crime",
+  "display": "Ст. 108 — Убийство, совершенное при превышении пределов необходимой обороны либо при превышении мер, необходимых для задержания лица, совершившего преступление",
+  "display_en": "Art. 108 — Murder Committed in Excess of the Necessary Limits of Self-Defence or of the Measures Necessary to Apprehend a Person Who Has Committed a Crime"
+ },
+ "109": {
+  "name": "Причинение смерти по неосторожности",
+  "name_en": "Causing Death by Negligence",
+  "display": "Ст. 109 — Причинение смерти по неосторожности",
+  "display_en": "Art. 109 — Causing Death by Negligence"
+ },
+ "110": {
+  "name": "Доведение до самоубийства",
+  "name_en": "Incitement to Suicide",
+  "display": "Ст. 110 — Доведение до самоубийства",
+  "display_en": "Art. 110 — Incitement to Suicide"
+ },
+ "110.1": {
+  "name": "Склонение к совершению самоубийства или содействие совершению самоубийства",
+  "name_en": "Inducement to Commit Suicide or Assistance in Committing Suicide",
+  "display": "Ст. 110.1 — Склонение к совершению самоубийства или содействие совершению самоубийства",
+  "display_en": "Art. 110.1 — Inducement to Commit Suicide or Assistance in Committing Suicide"
+ },
+ "110.2": {
+  "name": "Организация деятельности, направленной на побуждение к совершению самоубийства",
+  "name_en": "Organizing Activities Aimed at Inducing Suicide",
+  "display": "Ст. 110.2 — Организация деятельности, направленной на побуждение к совершению самоубийства",
+  "display_en": "Art. 110.2 — Organizing Activities Aimed at Inducing Suicide"
+ },
+ "111": {
+  "name": "Умышленное причинение тяжкого вреда здоровью",
+  "name_en": "Intentional Infliction of Grave Harm to Health",
+  "display": "Ст. 111 — Умышленное причинение тяжкого вреда здоровью",
+  "display_en": "Art. 111 — Intentional Infliction of Grave Harm to Health"
+ },
+ "112": {
+  "name": "Умышленное причинение средней тяжести вреда здоровью",
+  "name_en": "Intentional Infliction of Harm of Medium Gravity to Health",
+  "display": "Ст. 112 — Умышленное причинение средней тяжести вреда здоровью",
+  "display_en": "Art. 112 — Intentional Infliction of Harm of Medium Gravity to Health"
+ },
+ "113": {
+  "name": "Причинение тяжкого или средней тяжести вреда здоровью в состоянии аффекта",
+  "name_en": "Infliction of Grave or Medium-Gravity Harm to Health in the Heat of Passion",
+  "display": "Ст. 113 — Причинение тяжкого или средней тяжести вреда здоровью в состоянии аффекта",
+  "display_en": "Art. 113 — Infliction of Grave or Medium-Gravity Harm to Health in the Heat of Passion"
+ },
+ "114": {
+  "name": "Причинение тяжкого или средней тяжести вреда здоровью при превышении пределов необходимой обороны либо при превышении мер, необходимых для задержания лица, совершившего преступление",
+  "name_en": "Infliction of Grave or Medium-Gravity Harm to Health in Excess of the Necessary Limits of Self-Defence or of the Measures Necessary to Apprehend a Person Who Has Committed a Crime",
+  "display": "Ст. 114 — Причинение тяжкого или средней тяжести вреда здоровью при превышении пределов необходимой обороны либо при превышении мер, необходимых для задержания лица, совершившего преступление",
+  "display_en": "Art. 114 — Infliction of Grave or Medium-Gravity Harm to Health in Excess of the Necessary Limits of Self-Defence or of the Measures Necessary to Apprehend a Person Who Has Committed a Crime"
+ },
+ "115": {
+  "name": "Умышленное причинение легкого вреда здоровью",
+  "name_en": "Intentional Infliction of Minor Harm to Health",
+  "display": "Ст. 115 — Умышленное причинение легкого вреда здоровью",
+  "display_en": "Art. 115 — Intentional Infliction of Minor Harm to Health"
+ },
+ "116": {
+  "name": "Побои",
+  "name_en": "Battery",
+  "display": "Ст. 116 — Побои",
+  "display_en": "Art. 116 — Battery"
+ },
+ "116.1": {
+  "name": "Нанесение побоев лицом, подвергнутым административному наказанию или имеющим судимость",
+  "name_en": "Battery by a Person Subjected to Administrative Punishment or Having a Criminal Record",
+  "display": "Ст. 116.1 — Нанесение побоев лицом, подвергнутым административному наказанию или имеющим судимость",
+  "display_en": "Art. 116.1 — Battery by a Person Subjected to Administrative Punishment or Having a Criminal Record"
+ },
+ "117": {
+  "name": "Истязание",
+  "name_en": "Torture",
+  "display": "Ст. 117 — Истязание",
+  "display_en": "Art. 117 — Torture"
+ },
+ "118": {
+  "name": "Причинение тяжкого вреда здоровью по неосторожности",
+  "name_en": "Infliction of Grave Harm to Health by Negligence",
+  "display": "Ст. 118 — Причинение тяжкого вреда здоровью по неосторожности",
+  "display_en": "Art. 118 — Infliction of Grave Harm to Health by Negligence"
+ },
+ "119": {
+  "name": "Угроза убийством или причинением тяжкого вреда здоровью",
+  "name_en": "Threat of Murder or of Infliction of Grave Harm to Health",
+  "display": "Ст. 119 — Угроза убийством или причинением тяжкого вреда здоровью",
+  "display_en": "Art. 119 — Threat of Murder or of Infliction of Grave Harm to Health"
+ },
+ "120": {
+  "name": "Принуждение к изъятию органов или тканей человека для трансплантации",
+  "name_en": "Compulsion to Remove Human Organs or Tissue for Transplantation",
+  "display": "Ст. 120 — Принуждение к изъятию органов или тканей человека для трансплантации",
+  "display_en": "Art. 120 — Compulsion to Remove Human Organs or Tissue for Transplantation"
+ },
+ "121": {
+  "name": "Заражение венерической болезнью",
+  "name_en": "Infection with a Venereal Disease",
+  "display": "Ст. 121 — Заражение венерической болезнью",
+  "display_en": "Art. 121 — Infection with a Venereal Disease"
+ },
+ "122": {
+  "name": "Заражение ВИЧ-инфекцией",
+  "name_en": "Infection with HIV",
+  "display": "Ст. 122 — Заражение ВИЧ-инфекцией",
+  "display_en": "Art. 122 — Infection with HIV"
+ },
+ "123": {
+  "name": "Незаконное проведение искусственного прерывания беременности",
+  "name_en": "Illegal Performance of Artificial Termination of Pregnancy",
+  "display": "Ст. 123 — Незаконное проведение искусственного прерывания беременности",
+  "display_en": "Art. 123 — Illegal Performance of Artificial Termination of Pregnancy"
+ },
+ "124": {
+  "name": "Неоказание помощи больному",
+  "name_en": "Failure to Render Aid to a Sick Person",
+  "display": "Ст. 124 — Неоказание помощи больному",
+  "display_en": "Art. 124 — Failure to Render Aid to a Sick Person"
+ },
+ "124.1": {
+  "name": "Воспрепятствование оказанию медицинской помощи",
+  "name_en": "Obstruction of the Rendering of Medical Aid",
+  "display": "Ст. 124.1 — Воспрепятствование оказанию медицинской помощи",
+  "display_en": "Art. 124.1 — Obstruction of the Rendering of Medical Aid"
+ },
+ "125": {
+  "name": "Оставление в опасности",
+  "name_en": "Leaving in Danger",
+  "display": "Ст. 125 — Оставление в опасности",
+  "display_en": "Art. 125 — Leaving in Danger"
+ },
+ "126": {
+  "name": "Похищение человека",
+  "name_en": "Kidnapping",
+  "display": "Ст. 126 — Похищение человека",
+  "display_en": "Art. 126 — Kidnapping"
+ },
+ "127": {
+  "name": "Незаконное лишение свободы",
+  "name_en": "Unlawful Deprivation of Liberty",
+  "display": "Ст. 127 — Незаконное лишение свободы",
+  "display_en": "Art. 127 — Unlawful Deprivation of Liberty"
+ },
+ "127.1": {
+  "name": "Торговля людьми",
+  "name_en": "Trafficking in Persons",
+  "display": "Ст. 127.1 — Торговля людьми",
+  "display_en": "Art. 127.1 — Trafficking in Persons"
+ },
+ "127.2": {
+  "name": "Использование рабского труда",
+  "name_en": "Use of Slave Labour",
+  "display": "Ст. 127.2 — Использование рабского труда",
+  "display_en": "Art. 127.2 — Use of Slave Labour"
+ },
+ "128": {
+  "name": "Незаконная госпитализация в медицинскую организацию, оказывающую психиатрическую помощь в стационарных условиях",
+  "name_en": "Unlawful Placement in a Medical Organization Providing Psychiatric Aid on an Inpatient Basis",
+  "display": "Ст. 128 — Незаконная госпитализация в медицинскую организацию, оказывающую психиатрическую помощь в стационарных условиях",
+  "display_en": "Art. 128 — Unlawful Placement in a Medical Organization Providing Psychiatric Aid on an Inpatient Basis"
+ },
+ "128.1": {
+  "name": "Клевета",
+  "name_en": "Slander",
+  "display": "Ст. 128.1 — Клевета",
+  "display_en": "Art. 128.1 — Slander"
+ },
+ "129": {
+  "name": "Утратила силу",
+  "name_en": "Repealed",
+  "display": "Ст. 129 (утратила силу)",
+  "display_en": "Art. 129 (repealed)"
+ },
+ "130": {
+  "name": "Утратила силу",
+  "name_en": "Repealed",
+  "display": "Ст. 130 (утратила силу)",
+  "display_en": "Art. 130 (repealed)"
+ },
+ "131": {
+  "name": "Изнасилование",
+  "name_en": "Rape",
+  "display": "Ст. 131 — Изнасилование",
+  "display_en": "Art. 131 — Rape"
+ },
+ "132": {
+  "name": "Насильственные действия сексуального характера",
+  "name_en": "Violent Acts of a Sexual Nature",
+  "display": "Ст. 132 — Насильственные действия сексуального характера",
+  "display_en": "Art. 132 — Violent Acts of a Sexual Nature"
+ },
+ "133": {
+  "name": "Понуждение к действиям сексуального характера",
+  "name_en": "Compulsion to Perform Acts of a Sexual Nature",
+  "display": "Ст. 133 — Понуждение к действиям сексуального характера",
+  "display_en": "Art. 133 — Compulsion to Perform Acts of a Sexual Nature"
+ },
+ "134": {
+  "name": "Половое сношение и иные действия сексуального характера с лицом, не достигшим шестнадцатилетнего возраста",
+  "name_en": "Sexual Intercourse and Other Acts of a Sexual Nature with a Person Under Sixteen Years of Age",
+  "display": "Ст. 134 — Половое сношение и иные действия сексуального характера с лицом, не достигшим шестнадцатилетнего возраста",
+  "display_en": "Art. 134 — Sexual Intercourse and Other Acts of a Sexual Nature with a Person Under Sixteen Years of Age"
+ },
+ "135": {
+  "name": "Развратные действия",
+  "name_en": "Lewd Acts",
+  "display": "Ст. 135 — Развратные действия",
+  "display_en": "Art. 135 — Lewd Acts"
+ },
+ "136": {
+  "name": "Нарушение равенства прав и свобод человека и гражданина",
+  "name_en": "Violation of Equality of Rights and Freedoms of Man and Citizen",
+  "display": "Ст. 136 — Нарушение равенства прав и свобод человека и гражданина",
+  "display_en": "Art. 136 — Violation of Equality of Rights and Freedoms of Man and Citizen"
+ },
+ "137": {
+  "name": "Нарушение неприкосновенности частной жизни",
+  "name_en": "Violation of the Inviolability of Private Life",
+  "display": "Ст. 137 — Нарушение неприкосновенности частной жизни",
+  "display_en": "Art. 137 — Violation of the Inviolability of Private Life"
+ },
+ "138": {
+  "name": "Нарушение тайны переписки, телефонных переговоров, почтовых, телеграфных или иных сообщений",
+  "name_en": "Violation of the Secrecy of Correspondence, Telephone Conversations, Postal, Telegraphic or Other Communications",
+  "display": "Ст. 138 — Нарушение тайны переписки, телефонных переговоров, почтовых, телеграфных или иных сообщений",
+  "display_en": "Art. 138 — Violation of the Secrecy of Correspondence, Telephone Conversations, Postal, Telegraphic or Other Communications"
+ },
+ "138.1": {
+  "name": "Незаконный оборот специальных технических средств, предназначенных для негласного получения информации",
+  "name_en": "Illegal Circulation of Special Technical Means Intended for Covertly Obtaining Information",
+  "display": "Ст. 138.1 — Незаконный оборот специальных технических средств, предназначенных для негласного получения информации",
+  "display_en": "Art. 138.1 — Illegal Circulation of Special Technical Means Intended for Covertly Obtaining Information"
+ },
+ "139": {
+  "name": "Нарушение неприкосновенности жилища",
+  "name_en": "Violation of the Inviolability of the Home",
+  "display": "Ст. 139 — Нарушение неприкосновенности жилища",
+  "display_en": "Art. 139 — Violation of the Inviolability of the Home"
+ },
+ "140": {
+  "name": "Отказ в предоставлении гражданину информации",
+  "name_en": "Refusal to Provide a Citizen with Information",
+  "display": "Ст. 140 — Отказ в предоставлении гражданину информации",
+  "display_en": "Art. 140 — Refusal to Provide a Citizen with Information"
+ },
+ "141": {
+  "name": "Воспрепятствование осуществлению избирательных прав или работе избирательных комиссий",
+  "name_en": "Obstruction of the Exercise of Electoral Rights or of the Work of Electoral Commissions",
+  "display": "Ст. 141 — Воспрепятствование осуществлению избирательных прав или работе избирательных комиссий",
+  "display_en": "Art. 141 — Obstruction of the Exercise of Electoral Rights or of the Work of Electoral Commissions"
+ },
+ "141.1": {
+  "name": "Нарушение порядка финансирования избирательной кампании кандидата, избирательного объединения, деятельности инициативной группы по проведению референдума, иной группы участников референдума",
+  "name_en": "Violation of the Procedure for Financing an Election Campaign of a Candidate or Electoral Association, or the Activities of an Initiative Group for a Referendum or Other Group of Referendum Participants",
+  "display": "Ст. 141.1 — Нарушение порядка финансирования избирательной кампании кандидата, избирательного объединения, деятельности инициативной группы по проведению референдума, иной группы участников референдума",
+  "display_en": "Art. 141.1 — Violation of the Procedure for Financing an Election Campaign of a Candidate or Electoral Association, or the Activities of an Initiative Group for a Referendum or Other Group of Referendum Participants"
+ },
+ "142": {
+  "name": "Фальсификация избирательных документов, документов референдума, документов общероссийского голосования",
+  "name_en": "Falsification of Electoral Documents, Referendum Documents, or Documents of the All-Russian Vote",
+  "display": "Ст. 142 — Фальсификация избирательных документов, документов референдума, документов общероссийского голосования",
+  "display_en": "Art. 142 — Falsification of Electoral Documents, Referendum Documents, or Documents of the All-Russian Vote"
+ },
+ "142.1": {
+  "name": "Фальсификация итогов голосования",
+  "name_en": "Falsification of Voting Results",
+  "display": "Ст. 142.1 — Фальсификация итогов голосования",
+  "display_en": "Art. 142.1 — Falsification of Voting Results"
+ },
+ "142.2": {
+  "name": "Незаконные выдача и получение избирательного бюллетеня, бюллетеня для голосования на референдуме, бюллетеня для общероссийского голосования",
+  "name_en": "Unlawful Issuance and Receipt of a Ballot Paper, a Referendum Ballot, or an All-Russian Vote Ballot",
+  "display": "Ст. 142.2 — Незаконные выдача и получение избирательного бюллетеня, бюллетеня для голосования на референдуме, бюллетеня для общероссийского голосования",
+  "display_en": "Art. 142.2 — Unlawful Issuance and Receipt of a Ballot Paper, a Referendum Ballot, or an All-Russian Vote Ballot"
+ },
+ "143": {
+  "name": "Нарушение требований охраны труда",
+  "name_en": "Violation of Occupational Safety Requirements",
+  "display": "Ст. 143 — Нарушение требований охраны труда",
+  "display_en": "Art. 143 — Violation of Occupational Safety Requirements"
+ },
+ "144": {
+  "name": "Воспрепятствование законной профессиональной деятельности журналистов",
+  "name_en": "Obstruction of the Lawful Professional Activity of Journalists",
+  "display": "Ст. 144 — Воспрепятствование законной профессиональной деятельности журналистов",
+  "display_en": "Art. 144 — Obstruction of the Lawful Professional Activity of Journalists"
+ },
+ "144.1": {
+  "name": "Необоснованный отказ в приеме на работу или необоснованное увольнение лица, достигшего предпенсионного возраста",
+  "name_en": "Unjustified Refusal to Hire or Unjustified Dismissal of a Person Who Has Reached Pre-Retirement Age",
+  "display": "Ст. 144.1 — Необоснованный отказ в приеме на работу или необоснованное увольнение лица, достигшего предпенсионного возраста",
+  "display_en": "Art. 144.1 — Unjustified Refusal to Hire or Unjustified Dismissal of a Person Who Has Reached Pre-Retirement Age"
+ },
+ "145": {
+  "name": "Необоснованный отказ в приеме на работу или необоснованное увольнение беременной женщины или женщины, имеющей детей в возрасте до трех лет",
+  "name_en": "Unjustified Refusal to Hire or Unjustified Dismissal of a Pregnant Woman or a Woman with Children Under Three Years of Age",
+  "display": "Ст. 145 — Необоснованный отказ в приеме на работу или необоснованное увольнение беременной женщины или женщины, имеющей детей в возрасте до трех лет",
+  "display_en": "Art. 145 — Unjustified Refusal to Hire or Unjustified Dismissal of a Pregnant Woman or a Woman with Children Under Three Years of Age"
+ },
+ "145.1": {
+  "name": "Невыплата заработной платы, пенсий, стипендий, пособий и иных выплат",
+  "name_en": "Non-Payment of Wages, Pensions, Scholarships, Allowances and Other Payments",
+  "display": "Ст. 145.1 — Невыплата заработной платы, пенсий, стипендий, пособий и иных выплат",
+  "display_en": "Art. 145.1 — Non-Payment of Wages, Pensions, Scholarships, Allowances and Other Payments"
+ },
+ "146": {
+  "name": "Нарушение авторских и смежных прав",
+  "name_en": "Violation of Copyright and Related Rights",
+  "display": "Ст. 146 — Нарушение авторских и смежных прав",
+  "display_en": "Art. 146 — Violation of Copyright and Related Rights"
+ },
+ "147": {
+  "name": "Нарушение изобретательских и патентных прав",
+  "name_en": "Violation of Inventors' and Patent Rights",
+  "display": "Ст. 147 — Нарушение изобретательских и патентных прав",
+  "display_en": "Art. 147 — Violation of Inventors' and Patent Rights"
+ },
+ "148": {
+  "name": "Нарушение права на свободу совести и вероисповеданий",
+  "name_en": "Violation of the Right to Freedom of Conscience and Religion",
+  "display": "Ст. 148 — Нарушение права на свободу совести и вероисповеданий",
+  "display_en": "Art. 148 — Violation of the Right to Freedom of Conscience and Religion"
+ },
+ "149": {
+  "name": "Воспрепятствование проведению собрания, митинга, демонстрации, шествия, пикетирования или участию в них",
+  "name_en": "Obstruction of the Holding of an Assembly, Meeting, Demonstration, Procession, or Picket, or of Participation Therein",
+  "display": "Ст. 149 — Воспрепятствование проведению собрания, митинга, демонстрации, шествия, пикетирования или участию в них",
+  "display_en": "Art. 149 — Obstruction of the Holding of an Assembly, Meeting, Demonstration, Procession, or Picket, or of Participation Therein"
+ },
+ "150": {
+  "name": "Вовлечение несовершеннолетнего в совершение преступления",
+  "name_en": "Inducement of a Minor to Commit a Crime",
+  "display": "Ст. 150 — Вовлечение несовершеннолетнего в совершение преступления",
+  "display_en": "Art. 150 — Inducement of a Minor to Commit a Crime"
+ },
+ "151": {
+  "name": "Вовлечение несовершеннолетнего в совершение антиобщественных действий",
+  "name_en": "Inducement of a Minor to Commit Antisocial Acts",
+  "display": "Ст. 151 — Вовлечение несовершеннолетнего в совершение антиобщественных действий",
+  "display_en": "Art. 151 — Inducement of a Minor to Commit Antisocial Acts"
+ },
+ "151.1": {
+  "name": "Розничная продажа несовершеннолетним алкогольной продукции, табачной продукции, табачных изделий, никотинсодержащей продукции или сырья для их производства, кальянов, устройств для потребления никотинсодержащей продукции",
+  "name_en": "Retail Sale of Alcoholic Products, Tobacco Products, Tobacco Articles, Nicotine-Containing Products or Raw Materials for Their Production, Hookahs, or Devices for Consuming Nicotine-Containing Products to Minors",
+  "display": "Ст. 151.1 — Розничная продажа несовершеннолетним алкогольной продукции, табачной продукции, табачных изделий, никотинсодержащей продукции или сырья для их производства, кальянов, устройств для потребления никотинсодержащей продукции",
+  "display_en": "Art. 151.1 — Retail Sale of Alcoholic Products, Tobacco Products, Tobacco Articles, Nicotine-Containing Products or Raw Materials for Their Production, Hookahs, or Devices for Consuming Nicotine-Containing Products to Minors"
+ },
+ "151.2": {
+  "name": "Вовлечение несовершеннолетнего в совершение действий, представляющих опасность для жизни несовершеннолетнего",
+  "name_en": "Inducement of a Minor to Commit Acts Endangering the Life of the Minor",
+  "display": "Ст. 151.2 — Вовлечение несовершеннолетнего в совершение действий, представляющих опасность для жизни несовершеннолетнего",
+  "display_en": "Art. 151.2 — Inducement of a Minor to Commit Acts Endangering the Life of the Minor"
+ },
+ "152": {
+  "name": "Утратила силу",
+  "name_en": "Repealed",
+  "display": "Ст. 152 (утратила силу)",
+  "display_en": "Art. 152 (repealed)"
+ },
+ "153": {
+  "name": "Подмена ребенка",
+  "name_en": "Substitution of a Child",
+  "display": "Ст. 153 — Подмена ребенка",
+  "display_en": "Art. 153 — Substitution of a Child"
+ },
+ "154": {
+  "name": "Незаконное усыновление (удочерение)",
+  "name_en": "Unlawful Adoption",
+  "display": "Ст. 154 — Незаконное усыновление (удочерение)",
+  "display_en": "Art. 154 — Unlawful Adoption"
+ },
+ "155": {
+  "name": "Разглашение тайны усыновления (удочерения)",
+  "name_en": "Disclosure of the Secrecy of Adoption",
+  "display": "Ст. 155 — Разглашение тайны усыновления (удочерения)",
+  "display_en": "Art. 155 — Disclosure of the Secrecy of Adoption"
+ },
+ "156": {
+  "name": "Неисполнение обязанностей по воспитанию несовершеннолетнего",
+  "name_en": "Non-Performance of Duties of Upbringing a Minor",
+  "display": "Ст. 156 — Неисполнение обязанностей по воспитанию несовершеннолетнего",
+  "display_en": "Art. 156 — Non-Performance of Duties of Upbringing a Minor"
+ },
+ "157": {
+  "name": "Неуплата средств на содержание детей или нетрудоспособных родителей",
+  "name_en": "Non-Payment of Funds for the Maintenance of Children or Disabled Parents",
+  "display": "Ст. 157 — Неуплата средств на содержание детей или нетрудоспособных родителей",
+  "display_en": "Art. 157 — Non-Payment of Funds for the Maintenance of Children or Disabled Parents"
+ },
+ "158": {
+  "name": "Кража",
+  "name_en": "Theft",
+  "display": "Ст. 158 — Кража",
+  "display_en": "Art. 158 — Theft"
+ },
+ "158.1": {
+  "name": "Мелкое хищение, совершенное лицом, подвергнутым административному наказанию",
+  "name_en": "Petty Theft Committed by a Person Subjected to Administrative Punishment",
+  "display": "Ст. 158.1 — Мелкое хищение, совершенное лицом, подвергнутым административному наказанию",
+  "display_en": "Art. 158.1 — Petty Theft Committed by a Person Subjected to Administrative Punishment"
+ },
+ "159": {
+  "name": "Мошенничество",
+  "name_en": "Fraud",
+  "display": "Ст. 159 — Мошенничество",
+  "display_en": "Art. 159 — Fraud"
+ },
+ "159.1": {
+  "name": "Мошенничество в сфере кредитования",
+  "name_en": "Fraud in the Sphere of Lending",
+  "display": "Ст. 159.1 — Мошенничество в сфере кредитования",
+  "display_en": "Art. 159.1 — Fraud in the Sphere of Lending"
+ },
+ "159.2": {
+  "name": "Мошенничество при получении выплат",
+  "name_en": "Fraud in the Receipt of Payments",
+  "display": "Ст. 159.2 — Мошенничество при получении выплат",
+  "display_en": "Art. 159.2 — Fraud in the Receipt of Payments"
+ },
+ "159.3": {
+  "name": "Мошенничество с использованием электронных средств платежа",
+  "name_en": "Fraud Using Electronic Means of Payment",
+  "display": "Ст. 159.3 — Мошенничество с использованием электронных средств платежа",
+  "display_en": "Art. 159.3 — Fraud Using Electronic Means of Payment"
+ },
+ "159.4": {
+  "name": "Утратила силу",
+  "name_en": "Repealed",
+  "display": "Ст. 159.4 (утратила силу)",
+  "display_en": "Art. 159.4 (repealed)"
+ },
+ "159.5": {
+  "name": "Мошенничество в сфере страхования",
+  "name_en": "Fraud in the Sphere of Insurance",
+  "display": "Ст. 159.5 — Мошенничество в сфере страхования",
+  "display_en": "Art. 159.5 — Fraud in the Sphere of Insurance"
+ },
+ "159.6": {
+  "name": "Мошенничество в сфере компьютерной информации",
+  "name_en": "Fraud in the Sphere of Computer Information",
+  "display": "Ст. 159.6 — Мошенничество в сфере компьютерной информации",
+  "display_en": "Art. 159.6 — Fraud in the Sphere of Computer Information"
+ },
+ "160": {
+  "name": "Присвоение или растрата",
+  "name_en": "Misappropriation or Embezzlement",
+  "display": "Ст. 160 — Присвоение или растрата",
+  "display_en": "Art. 160 — Misappropriation or Embezzlement"
+ },
+ "161": {
+  "name": "Грабеж",
+  "name_en": "Robbery (Grabezh)",
+  "display": "Ст. 161 — Грабеж",
+  "display_en": "Art. 161 — Robbery (Grabezh)"
+ },
+ "162": {
+  "name": "Разбой",
+  "name_en": "Robbery (Razboi, i.e. with Violence)",
+  "display": "Ст. 162 — Разбой",
+  "display_en": "Art. 162 — Robbery (Razboi, i.e. with Violence)"
+ },
+ "163": {
+  "name": "Вымогательство",
+  "name_en": "Extortion",
+  "display": "Ст. 163 — Вымогательство",
+  "display_en": "Art. 163 — Extortion"
+ },
+ "164": {
+  "name": "Хищение предметов, имеющих особую ценность",
+  "name_en": "Theft of Items of Special Value",
+  "display": "Ст. 164 — Хищение предметов, имеющих особую ценность",
+  "display_en": "Art. 164 — Theft of Items of Special Value"
+ },
+ "165": {
+  "name": "Причинение имущественного ущерба путем обмана или злоупотребления доверием",
+  "name_en": "Infliction of Property Damage by Deceit or Abuse of Trust",
+  "display": "Ст. 165 — Причинение имущественного ущерба путем обмана или злоупотребления доверием",
+  "display_en": "Art. 165 — Infliction of Property Damage by Deceit or Abuse of Trust"
+ },
+ "166": {
+  "name": "Неправомерное завладение автомобилем или иным транспортным средством без цели хищения",
+  "name_en": "Unlawful Taking of an Automobile or Other Vehicle Without the Purpose of Theft",
+  "display": "Ст. 166 — Неправомерное завладение автомобилем или иным транспортным средством без цели хищения",
+  "display_en": "Art. 166 — Unlawful Taking of an Automobile or Other Vehicle Without the Purpose of Theft"
+ },
+ "167": {
+  "name": "Умышленные уничтожение или повреждение имущества",
+  "name_en": "Intentional Destruction or Damage of Property",
+  "display": "Ст. 167 — Умышленные уничтожение или повреждение имущества",
+  "display_en": "Art. 167 — Intentional Destruction or Damage of Property"
+ },
+ "168": {
+  "name": "Уничтожение или повреждение имущества по неосторожности",
+  "name_en": "Destruction or Damage of Property by Negligence",
+  "display": "Ст. 168 — Уничтожение или повреждение имущества по неосторожности",
+  "display_en": "Art. 168 — Destruction or Damage of Property by Negligence"
+ },
+ "169": {
+  "name": "Воспрепятствование законной предпринимательской или иной деятельности",
+  "name_en": "Obstruction of Lawful Entrepreneurial or Other Activity",
+  "display": "Ст. 169 — Воспрепятствование законной предпринимательской или иной деятельности",
+  "display_en": "Art. 169 — Obstruction of Lawful Entrepreneurial or Other Activity"
+ },
+ "170": {
+  "name": "Регистрация незаконных сделок с недвижимым имуществом",
+  "name_en": "Registration of Illegal Transactions with Immovable Property",
+  "display": "Ст. 170 — Регистрация незаконных сделок с недвижимым имуществом",
+  "display_en": "Art. 170 — Registration of Illegal Transactions with Immovable Property"
+ },
+ "170.1": {
+  "name": "Фальсификация единого государственного реестра юридических лиц, реестра владельцев ценных бумаг или системы депозитарного учета",
+  "name_en": "Falsification of the Unified State Register of Legal Entities, the Register of Securities Holders, or the Depositary Accounting System",
+  "display": "Ст. 170.1 — Фальсификация единого государственного реестра юридических лиц, реестра владельцев ценных бумаг или системы депозитарного учета",
+  "display_en": "Art. 170.1 — Falsification of the Unified State Register of Legal Entities, the Register of Securities Holders, or the Depositary Accounting System"
+ },
+ "170.2": {
+  "name": "Внесение заведомо ложных сведений в межевой план, технический план, акт обследования, проект межевания земельного участка или земельных участков либо карту-план территории",
+  "name_en": "Entry of Knowingly False Information into a Boundary Plan, Technical Plan, Inspection Report, Land Surveying Project, or Territory Plan",
+  "display": "Ст. 170.2 — Внесение заведомо ложных сведений в межевой план, технический план, акт обследования, проект межевания земельного участка или земельных участков либо карту-план территории",
+  "display_en": "Art. 170.2 — Entry of Knowingly False Information into a Boundary Plan, Technical Plan, Inspection Report, Land Surveying Project, or Territory Plan"
+ },
+ "171": {
+  "name": "Незаконное предпринимательство",
+  "name_en": "Illegal Entrepreneurship",
+  "display": "Ст. 171 — Незаконное предпринимательство",
+  "display_en": "Art. 171 — Illegal Entrepreneurship"
+ },
+ "171.1": {
+  "name": "Производство, приобретение, хранение, перевозка или сбыт товаров и продукции без маркировки и (или) нанесения информации, предусмотренной законодательством Российской Федерации",
+  "name_en": "Production, Acquisition, Storage, Transportation or Sale of Unmarked Goods and Products",
+  "display": "Ст. 171.1 — Производство, приобретение, хранение, перевозка или сбыт товаров и продукции без маркировки и (или) нанесения информации, предусмотренной законодательством Российской Федерации",
+  "display_en": "Art. 171.1 — Production, Acquisition, Storage, Transportation or Sale of Unmarked Goods and Products"
+ },
+ "171.2": {
+  "name": "Незаконные организация и проведение азартных игр",
+  "name_en": "Illegal Organization and Conducting of Gambling",
+  "display": "Ст. 171.2 — Незаконные организация и проведение азартных игр",
+  "display_en": "Art. 171.2 — Illegal Organization and Conducting of Gambling"
+ },
+ "171.3": {
+  "name": "Незаконные производство и (или) оборот этилового спирта, алкогольной и спиртосодержащей продукции, табачной продукции, никотинсодержащей продукции и сырья для их производства",
+  "name_en": "Illegal Production and/or Circulation of Ethyl Alcohol, Alcoholic and Alcohol-Containing Products, Tobacco Products, Nicotine-Containing Products, and Raw Materials for Their Production",
+  "display": "Ст. 171.3 — Незаконные производство и (или) оборот этилового спирта, алкогольной и спиртосодержащей продукции, табачной продукции, никотинсодержащей продукции и сырья для их производства",
+  "display_en": "Art. 171.3 — Illegal Production and/or Circulation of Ethyl Alcohol, Alcoholic and Alcohol-Containing Products, Tobacco Products, Nicotine-Containing Products, and Raw Materials for Their Production"
+ },
+ "171.4": {
+  "name": "Незаконная розничная продажа алкогольной и спиртосодержащей пищевой продукции",
+  "name_en": "Illegal Retail Sale of Alcoholic and Alcohol-Containing Food Products",
+  "display": "Ст. 171.4 — Незаконная розничная продажа алкогольной и спиртосодержащей пищевой продукции",
+  "display_en": "Art. 171.4 — Illegal Retail Sale of Alcoholic and Alcohol-Containing Food Products"
+ },
+ "171.5": {
+  "name": "Незаконное осуществление деятельности по предоставлению потребительских кредитов (займов)",
+  "name_en": "Illegal Provision of Consumer Loans (Credits)",
+  "display": "Ст. 171.5 — Незаконное осуществление деятельности по предоставлению потребительских кредитов (займов)",
+  "display_en": "Art. 171.5 — Illegal Provision of Consumer Loans (Credits)"
+ },
+ "172": {
+  "name": "Незаконная банковская деятельность",
+  "name_en": "Illegal Banking Activity",
+  "display": "Ст. 172 — Незаконная банковская деятельность",
+  "display_en": "Art. 172 — Illegal Banking Activity"
+ },
+ "172.1": {
+  "name": "Фальсификация финансовых документов учета и отчетности финансовой организации",
+  "name_en": "Falsification of the Financial Accounting and Reporting Documents of a Financial Organization",
+  "display": "Ст. 172.1 — Фальсификация финансовых документов учета и отчетности финансовой организации",
+  "display_en": "Art. 172.1 — Falsification of the Financial Accounting and Reporting Documents of a Financial Organization"
+ },
+ "172.2": {
+  "name": "Организация деятельности по привлечению денежных средств и (или) иного имущества",
+  "name_en": "Organizing Activity for Attracting Funds and/or Other Property",
+  "display": "Ст. 172.2 — Организация деятельности по привлечению денежных средств и (или) иного имущества",
+  "display_en": "Art. 172.2 — Organizing Activity for Attracting Funds and/or Other Property"
+ },
+ "172.3": {
+  "name": "Невнесение в финансовые документы учета и отчетности кредитной организации сведений о размещенных физическими лицами и индивидуальными предпринимателями денежных средствах",
+  "name_en": "Failure to Enter into the Financial Accounting and Reporting Documents of a Credit Organization Information on Funds Placed by Individuals and Individual Entrepreneurs",
+  "display": "Ст. 172.3 — Невнесение в финансовые документы учета и отчетности кредитной организации сведений о размещенных физическими лицами и индивидуальными предпринимателями денежных средствах",
+  "display_en": "Art. 172.3 — Failure to Enter into the Financial Accounting and Reporting Documents of a Credit Organization Information on Funds Placed by Individuals and Individual Entrepreneurs"
+ },
+ "172.4": {
+  "name": "Незаконное осуществление деятельности по возврату просроченной задолженности физических лиц",
+  "name_en": "Illegal Conduct of Activity for the Recovery of Overdue Debt of Individuals",
+  "display": "Ст. 172.4 — Незаконное осуществление деятельности по возврату просроченной задолженности физических лиц",
+  "display_en": "Art. 172.4 — Illegal Conduct of Activity for the Recovery of Overdue Debt of Individuals"
+ },
+ "173": {
+  "name": "Утратила силу",
+  "name_en": "Repealed",
+  "display": "Ст. 173 (утратила силу)",
+  "display_en": "Art. 173 (repealed)"
+ },
+ "173.1": {
+  "name": "Незаконные образование (создание, реорганизация) юридического лица или государственная регистрация физического лица в качестве индивидуального предпринимателя",
+  "name_en": "Illegal Formation (Creation, Reorganization) of a Legal Entity or State Registration of an Individual as an Individual Entrepreneur",
+  "display": "Ст. 173.1 — Незаконные образование (создание, реорганизация) юридического лица или государственная регистрация физического лица в качестве индивидуального предпринимателя",
+  "display_en": "Art. 173.1 — Illegal Formation (Creation, Reorganization) of a Legal Entity or State Registration of an Individual as an Individual Entrepreneur"
+ },
+ "173.2": {
+  "name": "Незаконное использование документов для образования (создания, реорганизации) юридического лица, государственной регистрации физического лица в качестве индивидуального предпринимателя",
+  "name_en": "Illegal Use of Documents for the Formation (Creation, Reorganization) of a Legal Entity, or for State Registration of an Individual as an Individual Entrepreneur",
+  "display": "Ст. 173.2 — Незаконное использование документов для образования (создания, реорганизации) юридического лица, государственной регистрации физического лица в качестве индивидуального предпринимателя",
+  "display_en": "Art. 173.2 — Illegal Use of Documents for the Formation (Creation, Reorganization) of a Legal Entity, or for State Registration of an Individual as an Individual Entrepreneur"
+ },
+ "174": {
+  "name": "Легализация (отмывание) денежных средств или иного имущества, приобретенных другими лицами преступным путем",
+  "name_en": "Legalization (Laundering) of Money or Other Property Acquired by Other Persons by Criminal Means",
+  "display": "Ст. 174 — Легализация (отмывание) денежных средств или иного имущества, приобретенных другими лицами преступным путем",
+  "display_en": "Art. 174 — Legalization (Laundering) of Money or Other Property Acquired by Other Persons by Criminal Means"
+ },
+ "174.1": {
+  "name": "Легализация (отмывание) денежных средств или иного имущества, приобретенных лицом в результате совершения им преступления",
+  "name_en": "Legalization (Laundering) of Money or Other Property Acquired by a Person as a Result of Committing a Crime",
+  "display": "Ст. 174.1 — Легализация (отмывание) денежных средств или иного имущества, приобретенных лицом в результате совершения им преступления",
+  "display_en": "Art. 174.1 — Legalization (Laundering) of Money or Other Property Acquired by a Person as a Result of Committing a Crime"
+ },
+ "175": {
+  "name": "Приобретение или сбыт имущества, заведомо добытого преступным путем",
+  "name_en": "Acquisition or Sale of Property Knowingly Obtained by Criminal Means",
+  "display": "Ст. 175 — Приобретение или сбыт имущества, заведомо добытого преступным путем",
+  "display_en": "Art. 175 — Acquisition or Sale of Property Knowingly Obtained by Criminal Means"
+ },
+ "176": {
+  "name": "Незаконное получение кредита",
+  "name_en": "Illegal Obtaining of a Loan",
+  "display": "Ст. 176 — Незаконное получение кредита",
+  "display_en": "Art. 176 — Illegal Obtaining of a Loan"
+ },
+ "177": {
+  "name": "Злостное уклонение от погашения кредиторской задолженности",
+  "name_en": "Malicious Evasion of Repayment of Accounts Payable",
+  "display": "Ст. 177 — Злостное уклонение от погашения кредиторской задолженности",
+  "display_en": "Art. 177 — Malicious Evasion of Repayment of Accounts Payable"
+ },
+ "178": {
+  "name": "Ограничение конкуренции",
+  "name_en": "Restriction of Competition",
+  "display": "Ст. 178 — Ограничение конкуренции",
+  "display_en": "Art. 178 — Restriction of Competition"
+ },
+ "179": {
+  "name": "Принуждение к совершению сделки или к отказу от ее совершения",
+  "name_en": "Compulsion to Conclude a Transaction or to Refuse to Conclude One",
+  "display": "Ст. 179 — Принуждение к совершению сделки или к отказу от ее совершения",
+  "display_en": "Art. 179 — Compulsion to Conclude a Transaction or to Refuse to Conclude One"
+ },
+ "180": {
+  "name": "Незаконное использование средств индивидуализации товаров (работ, услуг)",
+  "name_en": "Illegal Use of Means of Individualization of Goods (Works, Services)",
+  "display": "Ст. 180 — Незаконное использование средств индивидуализации товаров (работ, услуг)",
+  "display_en": "Art. 180 — Illegal Use of Means of Individualization of Goods (Works, Services)"
+ },
+ "181": {
+  "name": "Нарушение правил изготовления и использования государственных пробирных клейм",
+  "name_en": "Violation of the Rules for Manufacturing and Using State Assay Marks",
+  "display": "Ст. 181 — Нарушение правил изготовления и использования государственных пробирных клейм",
+  "display_en": "Art. 181 — Violation of the Rules for Manufacturing and Using State Assay Marks"
+ },
+ "182": {
+  "name": "Утратила силу",
+  "name_en": "Repealed",
+  "display": "Ст. 182 (утратила силу)",
+  "display_en": "Art. 182 (repealed)"
+ },
+ "183": {
+  "name": "Незаконные получение и разглашение сведений, составляющих коммерческую, налоговую или банковскую тайну",
+  "name_en": "Illegal Obtaining and Disclosure of Information Constituting Commercial, Tax or Banking Secrecy",
+  "display": "Ст. 183 — Незаконные получение и разглашение сведений, составляющих коммерческую, налоговую или банковскую тайну",
+  "display_en": "Art. 183 — Illegal Obtaining and Disclosure of Information Constituting Commercial, Tax or Banking Secrecy"
+ },
+ "184": {
+  "name": "Оказание противоправного влияния на результат официального спортивного соревнования или зрелищного коммерческого конкурса",
+  "name_en": "Exerting Unlawful Influence on the Outcome of an Official Sports Competition or a Spectator Commercial Contest",
+  "display": "Ст. 184 — Оказание противоправного влияния на результат официального спортивного соревнования или зрелищного коммерческого конкурса",
+  "display_en": "Art. 184 — Exerting Unlawful Influence on the Outcome of an Official Sports Competition or a Spectator Commercial Contest"
+ },
+ "185": {
+  "name": "Злоупотребления при эмиссии ценных бумаг",
+  "name_en": "Abuses in the Issuance of Securities",
+  "display": "Ст. 185 — Злоупотребления при эмиссии ценных бумаг",
+  "display_en": "Art. 185 — Abuses in the Issuance of Securities"
+ },
+ "185.1": {
+  "name": "Злостное уклонение от раскрытия или предоставления информации, определенной законодательством Российской Федерации о ценных бумагах",
+  "name_en": "Malicious Evasion of Disclosure or Provision of Information Determined by the Legislation of the Russian Federation on Securities",
+  "display": "Ст. 185.1 — Злостное уклонение от раскрытия или предоставления информации, определенной законодательством Российской Федерации о ценных бумагах",
+  "display_en": "Art. 185.1 — Malicious Evasion of Disclosure or Provision of Information Determined by the Legislation of the Russian Federation on Securities"
+ },
+ "185.2": {
+  "name": "Нарушение порядка учета прав на ценные бумаги",
+  "name_en": "Violation of the Procedure for Recording Rights to Securities",
+  "display": "Ст. 185.2 — Нарушение порядка учета прав на ценные бумаги",
+  "display_en": "Art. 185.2 — Violation of the Procedure for Recording Rights to Securities"
+ },
+ "185.3": {
+  "name": "Манипулирование рынком",
+  "name_en": "Market Manipulation",
+  "display": "Ст. 185.3 — Манипулирование рынком",
+  "display_en": "Art. 185.3 — Market Manipulation"
+ },
+ "185.4": {
+  "name": "Воспрепятствование осуществлению или незаконное ограничение прав владельцев ценных бумаг",
+  "name_en": "Obstruction of the Exercise or Unlawful Restriction of the Rights of Holders of Securities",
+  "display": "Ст. 185.4 — Воспрепятствование осуществлению или незаконное ограничение прав владельцев ценных бумаг",
+  "display_en": "Art. 185.4 — Obstruction of the Exercise or Unlawful Restriction of the Rights of Holders of Securities"
+ },
+ "185.5": {
+  "name": "Фальсификация решения общего собрания акционеров (участников) хозяйственного общества или решения совета директоров (наблюдательного совета) хозяйственного общества",
+  "name_en": "Falsification of a Decision of the General Meeting of Shareholders (Participants) of a Business Entity or of a Decision of the Board of Directors (Supervisory Board) of a Business Entity",
+  "display": "Ст. 185.5 — Фальсификация решения общего собрания акционеров (участников) хозяйственного общества или решения совета директоров (наблюдательного совета) хозяйственного общества",
+  "display_en": "Art. 185.5 — Falsification of a Decision of the General Meeting of Shareholders (Participants) of a Business Entity or of a Decision of the Board of Directors (Supervisory Board) of a Business Entity"
+ },
+ "185.6": {
+  "name": "Неправомерное использование инсайдерской информации",
+  "name_en": "Illegal Use of Insider Information",
+  "display": "Ст. 185.6 — Неправомерное использование инсайдерской информации",
+  "display_en": "Art. 185.6 — Illegal Use of Insider Information"
+ },
+ "186": {
+  "name": "Изготовление, хранение, перевозка или сбыт поддельных денег или ценных бумаг",
+  "name_en": "Manufacture, Storage, Transportation or Sale of Counterfeit Money or Securities",
+  "display": "Ст. 186 — Изготовление, хранение, перевозка или сбыт поддельных денег или ценных бумаг",
+  "display_en": "Art. 186 — Manufacture, Storage, Transportation or Sale of Counterfeit Money or Securities"
+ },
+ "187": {
+  "name": "Неправомерный оборот средств платежей",
+  "name_en": "Illegal Circulation of Means of Payment",
+  "display": "Ст. 187 — Неправомерный оборот средств платежей",
+  "display_en": "Art. 187 — Illegal Circulation of Means of Payment"
+ },
+ "188": {
+  "name": "Утратила силу",
+  "name_en": "Repealed",
+  "display": "Ст. 188 (утратила силу)",
+  "display_en": "Art. 188 (repealed)"
+ },
+ "189": {
+  "name": "Незаконные экспорт из Российской Федерации или передача товаров или технологий, вооружения или военной техники, незаконное выполнение работ либо незаконное оказание услуг, в отношении которых установлен экспортный контроль",
+  "name_en": "Illegal Export from the Russian Federation or Transfer of Goods or Technologies, Weapons or Military Equipment, Illegal Performance of Work or Illegal Provision of Services in Respect of Which Export Control Has Been Established",
+  "display": "Ст. 189 — Незаконные экспорт из Российской Федерации или передача товаров или технологий, вооружения или военной техники, незаконное выполнение работ либо незаконное оказание услуг, в отношении которых установлен экспортный контроль",
+  "display_en": "Art. 189 — Illegal Export from the Russian Federation or Transfer of Goods or Technologies, Weapons or Military Equipment, Illegal Performance of Work or Illegal Provision of Services in Respect of Which Export Control Has Been Established"
+ },
+ "190": {
+  "name": "Невозвращение на территорию Российской Федерации культурных ценностей",
+  "name_en": "Failure to Return Cultural Valuables to the Territory of the Russian Federation",
+  "display": "Ст. 190 — Невозвращение на территорию Российской Федерации культурных ценностей",
+  "display_en": "Art. 190 — Failure to Return Cultural Valuables to the Territory of the Russian Federation"
+ },
+ "191": {
+  "name": "Незаконный оборот янтаря, нефрита или иных полудрагоценных камней, драгоценных металлов, драгоценных камней либо жемчуга",
+  "name_en": "Illegal Circulation of Amber, Nephrite, or Other Semi-Precious Stones, Precious Metals, Precious Stones or Pearls",
+  "display": "Ст. 191 — Незаконный оборот янтаря, нефрита или иных полудрагоценных камней, драгоценных металлов, драгоценных камней либо жемчуга",
+  "display_en": "Art. 191 — Illegal Circulation of Amber, Nephrite, or Other Semi-Precious Stones, Precious Metals, Precious Stones or Pearls"
+ },
+ "191.1": {
+  "name": "Приобретение, хранение, перевозка, переработка в целях сбыта или сбыт заведомо незаконно заготовленной древесины",
+  "name_en": "Acquisition, Storage, Transportation, Processing for the Purpose of Sale, or Sale of Knowingly Illegally Harvested Timber",
+  "display": "Ст. 191.1 — Приобретение, хранение, перевозка, переработка в целях сбыта или сбыт заведомо незаконно заготовленной древесины",
+  "display_en": "Art. 191.1 — Acquisition, Storage, Transportation, Processing for the Purpose of Sale, or Sale of Knowingly Illegally Harvested Timber"
+ },
+ "192": {
+  "name": "Нарушение правил сдачи государству драгоценных металлов и драгоценных камней",
+  "name_en": "Violation of the Rules for Delivery to the State of Precious Metals and Precious Stones",
+  "display": "Ст. 192 — Нарушение правил сдачи государству драгоценных металлов и драгоценных камней",
+  "display_en": "Art. 192 — Violation of the Rules for Delivery to the State of Precious Metals and Precious Stones"
+ },
+ "193": {
+  "name": "Уклонение от исполнения обязанностей по репатриации денежных средств в иностранной валюте или валюте Российской Федерации",
+  "name_en": "Evasion of the Performance of Obligations to Repatriate Funds in Foreign Currency or the Currency of the Russian Federation",
+  "display": "Ст. 193 — Уклонение от исполнения обязанностей по репатриации денежных средств в иностранной валюте или валюте Российской Федерации",
+  "display_en": "Art. 193 — Evasion of the Performance of Obligations to Repatriate Funds in Foreign Currency or the Currency of the Russian Federation"
+ },
+ "193.1": {
+  "name": "Совершение валютных операций по переводу денежных средств в иностранной валюте или валюте Российской Федерации на счета нерезидентов с использованием подложных документов",
+  "name_en": "Carrying Out Currency Transactions to Transfer Funds in Foreign Currency or the Currency of the Russian Federation to Non-Resident Accounts Using Forged Documents",
+  "display": "Ст. 193.1 — Совершение валютных операций по переводу денежных средств в иностранной валюте или валюте Российской Федерации на счета нерезидентов с использованием подложных документов",
+  "display_en": "Art. 193.1 — Carrying Out Currency Transactions to Transfer Funds in Foreign Currency or the Currency of the Russian Federation to Non-Resident Accounts Using Forged Documents"
+ },
+ "194": {
+  "name": "Уклонение от уплаты таможенных платежей, специальных, антидемпинговых и (или) компенсационных пошлин, взимаемых с организации или физического лица",
+  "name_en": "Evasion of Payment of Customs Duties, Special, Anti-Dumping and/or Countervailing Duties Levied on an Organization or an Individual",
+  "display": "Ст. 194 — Уклонение от уплаты таможенных платежей, специальных, антидемпинговых и (или) компенсационных пошлин, взимаемых с организации или физического лица",
+  "display_en": "Art. 194 — Evasion of Payment of Customs Duties, Special, Anti-Dumping and/or Countervailing Duties Levied on an Organization or an Individual"
+ },
+ "195": {
+  "name": "Неправомерные действия при банкротстве",
+  "name_en": "Unlawful Actions in Bankruptcy",
+  "display": "Ст. 195 — Неправомерные действия при банкротстве",
+  "display_en": "Art. 195 — Unlawful Actions in Bankruptcy"
+ },
+ "196": {
+  "name": "Преднамеренное банкротство",
+  "name_en": "Deliberate Bankruptcy",
+  "display": "Ст. 196 — Преднамеренное банкротство",
+  "display_en": "Art. 196 — Deliberate Bankruptcy"
+ },
+ "197": {
+  "name": "Фиктивное банкротство",
+  "name_en": "Fictitious Bankruptcy",
+  "display": "Ст. 197 — Фиктивное банкротство",
+  "display_en": "Art. 197 — Fictitious Bankruptcy"
+ },
+ "198": {
+  "name": "Уклонение физического лица от уплаты налогов, сборов и (или) физического лица - плательщика страховых взносов от уплаты страховых взносов",
+  "name_en": "Evasion by an Individual of the Payment of Taxes, Duties and/or of Insurance Contributions Payable by an Individual Insurance Payer",
+  "display": "Ст. 198 — Уклонение физического лица от уплаты налогов, сборов и (или) физического лица - плательщика страховых взносов от уплаты страховых взносов",
+  "display_en": "Art. 198 — Evasion by an Individual of the Payment of Taxes, Duties and/or of Insurance Contributions Payable by an Individual Insurance Payer"
+ },
+ "199": {
+  "name": "Уклонение от уплаты налогов, сборов, подлежащих уплате организацией, и (или) страховых взносов, подлежащих уплате организацией - плательщиком страховых взносов",
+  "name_en": "Evasion of the Payment of Taxes, Duties Payable by an Organization, and/or Insurance Contributions Payable by an Organization Insurance Payer",
+  "display": "Ст. 199 — Уклонение от уплаты налогов, сборов, подлежащих уплате организацией, и (или) страховых взносов, подлежащих уплате организацией - плательщиком страховых взносов",
+  "display_en": "Art. 199 — Evasion of the Payment of Taxes, Duties Payable by an Organization, and/or Insurance Contributions Payable by an Organization Insurance Payer"
+ },
+ "199.1": {
+  "name": "Неисполнение обязанностей налогового агента",
+  "name_en": "Non-Performance of the Duties of a Tax Agent",
+  "display": "Ст. 199.1 — Неисполнение обязанностей налогового агента",
+  "display_en": "Art. 199.1 — Non-Performance of the Duties of a Tax Agent"
+ },
+ "199.2": {
+  "name": "Сокрытие денежных средств либо имущества организации или индивидуального предпринимателя, за счет которых должно производиться взыскание налогов, сборов, страховых взносов",
+  "name_en": "Concealment of Funds or Property of an Organization or Individual Entrepreneur from Which Taxes, Duties or Insurance Contributions Are to Be Recovered",
+  "display": "Ст. 199.2 — Сокрытие денежных средств либо имущества организации или индивидуального предпринимателя, за счет которых должно производиться взыскание налогов, сборов, страховых взносов",
+  "display_en": "Art. 199.2 — Concealment of Funds or Property of an Organization or Individual Entrepreneur from Which Taxes, Duties or Insurance Contributions Are to Be Recovered"
+ },
+ "199.3": {
+  "name": "Уклонение страхователя - физического лица от уплаты страховых взносов на обязательное социальное страхование от несчастных случаев на производстве и профессиональных заболеваний в государственный внебюджетный фонд",
+  "name_en": "Evasion by an Individual Insurant of Payment of Insurance Contributions for Obligatory Social Insurance Against Industrial Accidents and Occupational Diseases to a State Extra-Budgetary Fund",
+  "display": "Ст. 199.3 — Уклонение страхователя - физического лица от уплаты страховых взносов на обязательное социальное страхование от несчастных случаев на производстве и профессиональных заболеваний в государственный внебюджетный фонд",
+  "display_en": "Art. 199.3 — Evasion by an Individual Insurant of Payment of Insurance Contributions for Obligatory Social Insurance Against Industrial Accidents and Occupational Diseases to a State Extra-Budgetary Fund"
+ },
+ "199.4": {
+  "name": "Уклонение страхователя-организации от уплаты страховых взносов на обязательное социальное страхование от несчастных случаев на производстве и профессиональных заболеваний в государственный внебюджетный фонд",
+  "name_en": "Evasion by an Organization Insurant of Payment of Insurance Contributions for Obligatory Social Insurance Against Industrial Accidents and Occupational Diseases to a State Extra-Budgetary Fund",
+  "display": "Ст. 199.4 — Уклонение страхователя-организации от уплаты страховых взносов на обязательное социальное страхование от несчастных случаев на производстве и профессиональных заболеваний в государственный внебюджетный фонд",
+  "display_en": "Art. 199.4 — Evasion by an Organization Insurant of Payment of Insurance Contributions for Obligatory Social Insurance Against Industrial Accidents and Occupational Diseases to a State Extra-Budgetary Fund"
+ },
+ "200": {
+  "name": "Утратила силу",
+  "name_en": "Repealed",
+  "display": "Ст. 200 (утратила силу)",
+  "display_en": "Art. 200 (repealed)"
+ },
+ "200.1": {
+  "name": "Контрабанда наличных денежных средств и (или) денежных инструментов",
+  "name_en": "Smuggling of Cash Funds and/or Monetary Instruments",
+  "display": "Ст. 200.1 — Контрабанда наличных денежных средств и (или) денежных инструментов",
+  "display_en": "Art. 200.1 — Smuggling of Cash Funds and/or Monetary Instruments"
+ },
+ "200.2": {
+  "name": "Утратила силу",
+  "name_en": "Repealed",
+  "display": "Ст. 200.2 (утратила силу)",
+  "display_en": "Art. 200.2 (repealed)"
+ },
+ "200.3": {
+  "name": "Привлечение денежных средств граждан в нарушение требований законодательства Российской Федерации об участии в долевом строительстве многоквартирных домов и (или) иных объектов недвижимости",
+  "name_en": "Attraction of Citizens' Funds in Violation of the Requirements of the Legislation of the Russian Federation on Participation in Shared Construction of Apartment Buildings and/or Other Real Estate",
+  "display": "Ст. 200.3 — Привлечение денежных средств граждан в нарушение требований законодательства Российской Федерации об участии в долевом строительстве многоквартирных домов и (или) иных объектов недвижимости",
+  "display_en": "Art. 200.3 — Attraction of Citizens' Funds in Violation of the Requirements of the Legislation of the Russian Federation on Participation in Shared Construction of Apartment Buildings and/or Other Real Estate"
+ },
+ "200.4": {
+  "name": "Злоупотребления в сфере закупок товаров, работ, услуг для обеспечения государственных или муниципальных нужд",
+  "name_en": "Abuses in the Sphere of Procurement of Goods, Works and Services for State or Municipal Needs",
+  "display": "Ст. 200.4 — Злоупотребления в сфере закупок товаров, работ, услуг для обеспечения государственных или муниципальных нужд",
+  "display_en": "Art. 200.4 — Abuses in the Sphere of Procurement of Goods, Works and Services for State or Municipal Needs"
+ },
+ "200.5": {
+  "name": "Подкуп работника контрактной службы, контрактного управляющего, члена комиссии по осуществлению закупок",
+  "name_en": "Bribery of an Employee of a Contract Service, a Contract Manager, or a Member of a Procurement Commission",
+  "display": "Ст. 200.5 — Подкуп работника контрактной службы, контрактного управляющего, члена комиссии по осуществлению закупок",
+  "display_en": "Art. 200.5 — Bribery of an Employee of a Contract Service, a Contract Manager, or a Member of a Procurement Commission"
+ },
+ "200.6": {
+  "name": "Заведомо ложное экспертное заключение в сфере закупок товаров, работ, услуг для обеспечения государственных и муниципальных нужд",
+  "name_en": "Knowingly False Expert Opinion in the Sphere of Procurement of Goods, Works and Services for State and Municipal Needs",
+  "display": "Ст. 200.6 — Заведомо ложное экспертное заключение в сфере закупок товаров, работ, услуг для обеспечения государственных и муниципальных нужд",
+  "display_en": "Art. 200.6 — Knowingly False Expert Opinion in the Sphere of Procurement of Goods, Works and Services for State and Municipal Needs"
+ },
+ "200.7": {
+  "name": "Подкуп арбитра (третейского судьи)",
+  "name_en": "Bribery of an Arbitrator (Arbiter of a Court of Arbitration)",
+  "display": "Ст. 200.7 — Подкуп арбитра (третейского судьи)",
+  "display_en": "Art. 200.7 — Bribery of an Arbitrator (Arbiter of a Court of Arbitration)"
+ },
+ "201": {
+  "name": "Злоупотребление полномочиями",
+  "name_en": "Abuse of Authority",
+  "display": "Ст. 201 — Злоупотребление полномочиями",
+  "display_en": "Art. 201 — Abuse of Authority"
+ },
+ "201.1": {
+  "name": "Злоупотребление полномочиями при выполнении государственного оборонного заказа",
+  "name_en": "Abuse of Authority in the Performance of a State Defence Order",
+  "display": "Ст. 201.1 — Злоупотребление полномочиями при выполнении государственного оборонного заказа",
+  "display_en": "Art. 201.1 — Abuse of Authority in the Performance of a State Defence Order"
+ },
+ "201.2": {
+  "name": "Нарушение условий государственного контракта по государственному оборонному заказу либо условий договора, заключенного в целях выполнения государственного оборонного заказа",
+  "name_en": "Violation of the Terms of a State Contract Under a State Defence Order or of the Terms of a Contract Concluded for the Purpose of Performing a State Defence Order",
+  "display": "Ст. 201.2 — Нарушение условий государственного контракта по государственному оборонному заказу либо условий договора, заключенного в целях выполнения государственного оборонного заказа",
+  "display_en": "Art. 201.2 — Violation of the Terms of a State Contract Under a State Defence Order or of the Terms of a Contract Concluded for the Purpose of Performing a State Defence Order"
+ },
+ "202": {
+  "name": "Злоупотребление полномочиями частными нотариусами и аудиторами",
+  "name_en": "Abuse of Authority by Private Notaries and Auditors",
+  "display": "Ст. 202 — Злоупотребление полномочиями частными нотариусами и аудиторами",
+  "display_en": "Art. 202 — Abuse of Authority by Private Notaries and Auditors"
+ },
+ "203": {
+  "name": "Превышение полномочий частным детективом или работником частной охранной организации, имеющим удостоверение частного охранника, при выполнении ими своих должностных обязанностей",
+  "name_en": "Excess of Authority by a Private Detective or an Employee of a Private Security Organization Holding a Private Guard's Certificate in the Performance of Their Official Duties",
+  "display": "Ст. 203 — Превышение полномочий частным детективом или работником частной охранной организации, имеющим удостоверение частного охранника, при выполнении ими своих должностных обязанностей",
+  "display_en": "Art. 203 — Excess of Authority by a Private Detective or an Employee of a Private Security Organization Holding a Private Guard's Certificate in the Performance of Their Official Duties"
+ },
+ "204": {
+  "name": "Коммерческий подкуп",
+  "name_en": "Commercial Bribery",
+  "display": "Ст. 204 — Коммерческий подкуп",
+  "display_en": "Art. 204 — Commercial Bribery"
+ },
+ "204.1": {
+  "name": "Посредничество в коммерческом подкупе",
+  "name_en": "Mediation in Commercial Bribery",
+  "display": "Ст. 204.1 — Посредничество в коммерческом подкупе",
+  "display_en": "Art. 204.1 — Mediation in Commercial Bribery"
+ },
+ "204.2": {
+  "name": "Мелкий коммерческий подкуп",
+  "name_en": "Petty Commercial Bribery",
+  "display": "Ст. 204.2 — Мелкий коммерческий подкуп",
+  "display_en": "Art. 204.2 — Petty Commercial Bribery"
+ },
+ "205": {
+  "name": "Террористический акт",
+  "name_en": "Act of Terrorism",
+  "display": "Ст. 205 — Террористический акт",
+  "display_en": "Art. 205 — Act of Terrorism"
+ },
+ "205.1": {
+  "name": "Содействие террористической деятельности",
+  "name_en": "Assistance to Terrorist Activity",
+  "display": "Ст. 205.1 — Содействие террористической деятельности",
+  "display_en": "Art. 205.1 — Assistance to Terrorist Activity"
+ },
+ "205.2": {
+  "name": "Публичные призывы к осуществлению террористической деятельности, публичное оправдание терроризма или пропаганда терроризма",
+  "name_en": "Public Calls for Terrorist Activity, Public Justification of Terrorism or Propaganda of Terrorism",
+  "display": "Ст. 205.2 — Публичные призывы к осуществлению террористической деятельности, публичное оправдание терроризма или пропаганда терроризма",
+  "display_en": "Art. 205.2 — Public Calls for Terrorist Activity, Public Justification of Terrorism or Propaganda of Terrorism"
+ },
+ "205.3": {
+  "name": "Прохождение обучения в целях осуществления террористической деятельности",
+  "name_en": "Undergoing Training for the Purpose of Carrying Out Terrorist Activity",
+  "display": "Ст. 205.3 — Прохождение обучения в целях осуществления террористической деятельности",
+  "display_en": "Art. 205.3 — Undergoing Training for the Purpose of Carrying Out Terrorist Activity"
+ },
+ "205.4": {
+  "name": "Организация террористического сообщества и участие в нем",
+  "name_en": "Organization of a Terrorist Community and Participation Therein",
+  "display": "Ст. 205.4 — Организация террористического сообщества и участие в нем",
+  "display_en": "Art. 205.4 — Organization of a Terrorist Community and Participation Therein"
+ },
+ "205.5": {
+  "name": "Организация деятельности террористической организации и участие в деятельности такой организации",
+  "name_en": "Organization of the Activity of a Terrorist Organization and Participation in the Activity of Such an Organization",
+  "display": "Ст. 205.5 — Организация деятельности террористической организации и участие в деятельности такой организации",
+  "display_en": "Art. 205.5 — Organization of the Activity of a Terrorist Organization and Participation in the Activity of Such an Organization"
+ },
+ "205.6": {
+  "name": "Несообщение о преступлении",
+  "name_en": "Failure to Report a Crime",
+  "display": "Ст. 205.6 — Несообщение о преступлении",
+  "display_en": "Art. 205.6 — Failure to Report a Crime"
+ },
+ "206": {
+  "name": "Захват заложника",
+  "name_en": "Taking of a Hostage",
+  "display": "Ст. 206 — Захват заложника",
+  "display_en": "Art. 206 — Taking of a Hostage"
+ },
+ "207": {
+  "name": "Заведомо ложное сообщение об акте терроризма",
+  "name_en": "Knowingly False Report of an Act of Terrorism",
+  "display": "Ст. 207 — Заведомо ложное сообщение об акте терроризма",
+  "display_en": "Art. 207 — Knowingly False Report of an Act of Terrorism"
+ },
+ "207.1": {
+  "name": "Публичное распространение заведомо ложной информации об обстоятельствах, представляющих угрозу жизни и безопасности граждан",
+  "name_en": "Public Dissemination of Knowingly False Information Concerning Circumstances That Endanger the Life and Safety of Citizens",
+  "display": "Ст. 207.1 — Публичное распространение заведомо ложной информации об обстоятельствах, представляющих угрозу жизни и безопасности граждан",
+  "display_en": "Art. 207.1 — Public Dissemination of Knowingly False Information Concerning Circumstances That Endanger the Life and Safety of Citizens"
+ },
+ "207.2": {
+  "name": "Публичное распространение заведомо ложной общественно значимой информации, повлекшее тяжкие последствия",
+  "name_en": "Public Dissemination of Knowingly False Socially Significant Information Entailing Grave Consequences",
+  "display": "Ст. 207.2 — Публичное распространение заведомо ложной общественно значимой информации, повлекшее тяжкие последствия",
+  "display_en": "Art. 207.2 — Public Dissemination of Knowingly False Socially Significant Information Entailing Grave Consequences"
+ },
+ "207.3": {
+  "name": "Публичное распространение заведомо ложной информации об использовании Вооруженных Сил Российской Федерации, исполнении государственными органами Российской Федерации своих полномочий, оказании добровольческими формированиями, организациями или лицами содействия в выполнении задач, возложенных на Вооруженные Силы Российской Федерации или войска национальной гвардии Российской Федерации",
+  "name_en": "Public Dissemination of Knowingly False Information About the Use of the Armed Forces of the Russian Federation, the Exercise of Their Powers by State Bodies of the Russian Federation, or the Rendering of Assistance by Volunteer Formations, Organizations or Persons in Performing the Tasks Assigned to the Armed Forces of the Russian Federation or the Troops of the National Guard of the Russian Federation",
+  "display": "Ст. 207.3 — Публичное распространение заведомо ложной информации об использовании Вооруженных Сил Российской Федерации, исполнении государственными органами Российской Федерации своих полномочий, оказании добровольческими формированиями, организациями или лицами содействия в выполнении задач, возложенных на Вооруженные Силы Российской Федерации или войска национальной гвардии Российской Федерации",
+  "display_en": "Art. 207.3 — Public Dissemination of Knowingly False Information About the Use of the Armed Forces of the Russian Federation, the Exercise of Their Powers by State Bodies of the Russian Federation, or the Rendering of Assistance by Volunteer Formations, Organizations or Persons in Performing the Tasks Assigned to the Armed Forces of the Russian Federation or the Troops of the National Guard of the Russian Federation"
+ },
+ "208": {
+  "name": "Организация незаконного вооруженного формирования или участие в нем, а равно участие в вооруженном конфликте или военных действиях в целях, противоречащих интересам Российской Федерации",
+  "name_en": "Organization of an Illegal Armed Formation or Participation Therein, or Participation in an Armed Conflict or Military Actions for Purposes Contrary to the Interests of the Russian Federation",
+  "display": "Ст. 208 — Организация незаконного вооруженного формирования или участие в нем, а равно участие в вооруженном конфликте или военных действиях в целях, противоречащих интересам Российской Федерации",
+  "display_en": "Art. 208 — Organization of an Illegal Armed Formation or Participation Therein, or Participation in an Armed Conflict or Military Actions for Purposes Contrary to the Interests of the Russian Federation"
+ },
+ "209": {
+  "name": "Бандитизм",
+  "name_en": "Banditry",
+  "display": "Ст. 209 — Бандитизм",
+  "display_en": "Art. 209 — Banditry"
+ },
+ "210": {
+  "name": "Организация преступного сообщества (преступной организации) или участие в нем (ней)",
+  "name_en": "Organization of a Criminal Community (Criminal Organization) or Participation Therein",
+  "display": "Ст. 210 — Организация преступного сообщества (преступной организации) или участие в нем (ней)",
+  "display_en": "Art. 210 — Organization of a Criminal Community (Criminal Organization) or Participation Therein"
+ },
+ "210.1": {
+  "name": "Занятие высшего положения в преступной иерархии",
+  "name_en": "Occupying a Position of Authority in the Criminal Hierarchy",
+  "display": "Ст. 210.1 — Занятие высшего положения в преступной иерархии",
+  "display_en": "Art. 210.1 — Occupying a Position of Authority in the Criminal Hierarchy"
+ },
+ "211": {
+  "name": "Угон судна воздушного или водного транспорта либо железнодорожного подвижного состава",
+  "name_en": "Hijacking of an Aircraft, Vessel, or Railway Rolling Stock",
+  "display": "Ст. 211 — Угон судна воздушного или водного транспорта либо железнодорожного подвижного состава",
+  "display_en": "Art. 211 — Hijacking of an Aircraft, Vessel, or Railway Rolling Stock"
+ },
+ "212": {
+  "name": "Массовые беспорядки",
+  "name_en": "Mass Disorders",
+  "display": "Ст. 212 — Массовые беспорядки",
+  "display_en": "Art. 212 — Mass Disorders"
+ },
+ "212.1": {
+  "name": "Неоднократное нарушение установленного порядка организации либо проведения собрания, митинга, демонстрации, шествия или пикетирования",
+  "name_en": "Repeated Violation of the Established Procedure for Organizing or Holding an Assembly, Meeting, Demonstration, Procession, or Picket",
+  "display": "Ст. 212.1 — Неоднократное нарушение установленного порядка организации либо проведения собрания, митинга, демонстрации, шествия или пикетирования",
+  "display_en": "Art. 212.1 — Repeated Violation of the Established Procedure for Organizing or Holding an Assembly, Meeting, Demonstration, Procession, or Picket"
+ },
+ "213": {
+  "name": "Хулиганство",
+  "name_en": "Hooliganism",
+  "display": "Ст. 213 — Хулиганство",
+  "display_en": "Art. 213 — Hooliganism"
+ },
+ "214": {
+  "name": "Вандализм",
+  "name_en": "Vandalism",
+  "display": "Ст. 214 — Вандализм",
+  "display_en": "Art. 214 — Vandalism"
+ },
+ "215": {
+  "name": "Нарушение правил безопасности на объектах атомной энергетики",
+  "name_en": "Violation of Safety Rules at Nuclear Power Facilities",
+  "display": "Ст. 215 — Нарушение правил безопасности на объектах атомной энергетики",
+  "display_en": "Art. 215 — Violation of Safety Rules at Nuclear Power Facilities"
+ },
+ "215.1": {
+  "name": "Прекращение или ограничение подачи электрической энергии либо отключение от других источников жизнеобеспечения",
+  "name_en": "Termination or Restriction of the Supply of Electric Power or Disconnection from Other Sources of Life Support",
+  "display": "Ст. 215.1 — Прекращение или ограничение подачи электрической энергии либо отключение от других источников жизнеобеспечения",
+  "display_en": "Art. 215.1 — Termination or Restriction of the Supply of Electric Power or Disconnection from Other Sources of Life Support"
+ },
+ "215.2": {
+  "name": "Приведение в негодность объектов жизнеобеспечения",
+  "name_en": "Putting Life-Support Facilities out of Order",
+  "display": "Ст. 215.2 — Приведение в негодность объектов жизнеобеспечения",
+  "display_en": "Art. 215.2 — Putting Life-Support Facilities out of Order"
+ },
+ "215.3": {
+  "name": "Самовольное подключение к нефтепроводам, нефтепродуктопроводам и газопроводам либо приведение их в негодность",
+  "name_en": "Unauthorized Connection to Oil Pipelines, Oil-Product Pipelines and Gas Pipelines, or Putting Them out of Order",
+  "display": "Ст. 215.3 — Самовольное подключение к нефтепроводам, нефтепродуктопроводам и газопроводам либо приведение их в негодность",
+  "display_en": "Art. 215.3 — Unauthorized Connection to Oil Pipelines, Oil-Product Pipelines and Gas Pipelines, or Putting Them out of Order"
+ },
+ "215.4": {
+  "name": "Незаконное проникновение на охраняемый объект",
+  "name_en": "Illegal Entry onto a Protected Facility",
+  "display": "Ст. 215.4 — Незаконное проникновение на охраняемый объект",
+  "display_en": "Art. 215.4 — Illegal Entry onto a Protected Facility"
+ },
+ "216": {
+  "name": "Нарушение правил безопасности при ведении строительных или иных работ",
+  "name_en": "Violation of Safety Rules in the Conduct of Construction or Other Work",
+  "display": "Ст. 216 — Нарушение правил безопасности при ведении строительных или иных работ",
+  "display_en": "Art. 216 — Violation of Safety Rules in the Conduct of Construction or Other Work"
+ },
+ "217": {
+  "name": "Нарушение требований промышленной безопасности опасных производственных объектов",
+  "name_en": "Violation of Industrial Safety Requirements at Hazardous Production Facilities",
+  "display": "Ст. 217 — Нарушение требований промышленной безопасности опасных производственных объектов",
+  "display_en": "Art. 217 — Violation of Industrial Safety Requirements at Hazardous Production Facilities"
+ },
+ "217.1": {
+  "name": "Нарушение требований обеспечения безопасности и антитеррористической защищенности объектов топливно-энергетического комплекса",
+  "name_en": "Violation of the Requirements for Ensuring the Security and Anti-Terrorist Protection of Fuel and Energy Complex Facilities",
+  "display": "Ст. 217.1 — Нарушение требований обеспечения безопасности и антитеррористической защищенности объектов топливно-энергетического комплекса",
+  "display_en": "Art. 217.1 — Violation of the Requirements for Ensuring the Security and Anti-Terrorist Protection of Fuel and Energy Complex Facilities"
+ },
+ "217.2": {
+  "name": "Заведомо ложное заключение экспертизы промышленной безопасности",
+  "name_en": "Knowingly False Conclusion of an Industrial Safety Expert Review",
+  "display": "Ст. 217.2 — Заведомо ложное заключение экспертизы промышленной безопасности",
+  "display_en": "Art. 217.2 — Knowingly False Conclusion of an Industrial Safety Expert Review"
+ },
+ "217.3": {
+  "name": "Нарушение требований к антитеррористической защищенности объектов (территорий)",
+  "name_en": "Violation of the Requirements for the Anti-Terrorist Protection of Facilities (Territories)",
+  "display": "Ст. 217.3 — Нарушение требований к антитеррористической защищенности объектов (территорий)",
+  "display_en": "Art. 217.3 — Violation of the Requirements for the Anti-Terrorist Protection of Facilities (Territories)"
+ },
+ "218": {
+  "name": "Нарушение правил учета, хранения, перевозки и использования взрывчатых, легковоспламеняющихся веществ и пиротехнических изделий",
+  "name_en": "Violation of the Rules for the Accounting, Storage, Transportation and Use of Explosive, Flammable Substances and Pyrotechnic Articles",
+  "display": "Ст. 218 — Нарушение правил учета, хранения, перевозки и использования взрывчатых, легковоспламеняющихся веществ и пиротехнических изделий",
+  "display_en": "Art. 218 — Violation of the Rules for the Accounting, Storage, Transportation and Use of Explosive, Flammable Substances and Pyrotechnic Articles"
+ },
+ "219": {
+  "name": "Нарушение требований пожарной безопасности",
+  "name_en": "Violation of Fire Safety Requirements",
+  "display": "Ст. 219 — Нарушение требований пожарной безопасности",
+  "display_en": "Art. 219 — Violation of Fire Safety Requirements"
+ },
+ "220": {
+  "name": "Незаконное обращение с ядерными материалами или радиоактивными веществами",
+  "name_en": "Illegal Handling of Nuclear Materials or Radioactive Substances",
+  "display": "Ст. 220 — Незаконное обращение с ядерными материалами или радиоактивными веществами",
+  "display_en": "Art. 220 — Illegal Handling of Nuclear Materials or Radioactive Substances"
+ },
+ "221": {
+  "name": "Хищение либо вымогательство ядерных материалов или радиоактивных веществ",
+  "name_en": "Theft or Extortion of Nuclear Materials or Radioactive Substances",
+  "display": "Ст. 221 — Хищение либо вымогательство ядерных материалов или радиоактивных веществ",
+  "display_en": "Art. 221 — Theft or Extortion of Nuclear Materials or Radioactive Substances"
+ },
+ "222": {
+  "name": "Незаконные приобретение, передача, сбыт, хранение, перевозка, пересылка или ношение оружия, основных частей огнестрельного оружия, боеприпасов",
+  "name_en": "Illegal Acquisition, Transfer, Sale, Storage, Transportation or Carrying of Weapons, Main Parts of Firearms, and Ammunition",
+  "display": "Ст. 222 — Незаконные приобретение, передача, сбыт, хранение, перевозка, пересылка или ношение оружия, основных частей огнестрельного оружия, боеприпасов",
+  "display_en": "Art. 222 — Illegal Acquisition, Transfer, Sale, Storage, Transportation or Carrying of Weapons, Main Parts of Firearms, and Ammunition"
+ },
+ "222.1": {
+  "name": "Незаконные приобретение, передача, сбыт, хранение, перевозка, пересылка или ношение взрывчатых веществ или взрывных устройств",
+  "name_en": "Illegal Acquisition, Transfer, Sale, Storage, Transportation or Carrying of Explosive Substances or Explosive Devices",
+  "display": "Ст. 222.1 — Незаконные приобретение, передача, сбыт, хранение, перевозка, пересылка или ношение взрывчатых веществ или взрывных устройств",
+  "display_en": "Art. 222.1 — Illegal Acquisition, Transfer, Sale, Storage, Transportation or Carrying of Explosive Substances or Explosive Devices"
+ },
+ "222.2": {
+  "name": "Незаконные приобретение, передача, сбыт, хранение, перевозка, пересылка или ношение крупнокалиберного огнестрельного оружия, его основных частей и боеприпасов к нему",
+  "name_en": "Illegal Acquisition, Transfer, Sale, Storage, Transportation or Carrying of Large-Calibre Firearms, Their Main Parts and Ammunition Therefor",
+  "display": "Ст. 222.2 — Незаконные приобретение, передача, сбыт, хранение, перевозка, пересылка или ношение крупнокалиберного огнестрельного оружия, его основных частей и боеприпасов к нему",
+  "display_en": "Art. 222.2 — Illegal Acquisition, Transfer, Sale, Storage, Transportation or Carrying of Large-Calibre Firearms, Their Main Parts and Ammunition Therefor"
+ },
+ "223": {
+  "name": "Незаконное изготовление оружия",
+  "name_en": "Illegal Manufacture of Weapons",
+  "display": "Ст. 223 — Незаконное изготовление оружия",
+  "display_en": "Art. 223 — Illegal Manufacture of Weapons"
+ },
+ "223.1": {
+  "name": "Незаконное изготовление взрывчатых веществ, незаконные изготовление, переделка или ремонт взрывных устройств",
+  "name_en": "Illegal Manufacture of Explosive Substances, Illegal Manufacture, Modification, or Repair of Explosive Devices",
+  "display": "Ст. 223.1 — Незаконное изготовление взрывчатых веществ, незаконные изготовление, переделка или ремонт взрывных устройств",
+  "display_en": "Art. 223.1 — Illegal Manufacture of Explosive Substances, Illegal Manufacture, Modification, or Repair of Explosive Devices"
+ },
+ "224": {
+  "name": "Небрежное хранение огнестрельного оружия",
+  "name_en": "Negligent Storage of Firearms",
+  "display": "Ст. 224 — Небрежное хранение огнестрельного оружия",
+  "display_en": "Art. 224 — Negligent Storage of Firearms"
+ },
+ "225": {
+  "name": "Ненадлежащее исполнение обязанностей по охране оружия, боеприпасов, взрывчатых веществ и взрывных устройств",
+  "name_en": "Improper Performance of Duties for Guarding Weapons, Ammunition, Explosive Substances and Explosive Devices",
+  "display": "Ст. 225 — Ненадлежащее исполнение обязанностей по охране оружия, боеприпасов, взрывчатых веществ и взрывных устройств",
+  "display_en": "Art. 225 — Improper Performance of Duties for Guarding Weapons, Ammunition, Explosive Substances and Explosive Devices"
+ },
+ "226": {
+  "name": "Хищение либо вымогательство оружия, боеприпасов, взрывчатых веществ и взрывных устройств",
+  "name_en": "Theft or Extortion of Weapons, Ammunition, Explosive Substances and Explosive Devices",
+  "display": "Ст. 226 — Хищение либо вымогательство оружия, боеприпасов, взрывчатых веществ и взрывных устройств",
+  "display_en": "Art. 226 — Theft or Extortion of Weapons, Ammunition, Explosive Substances and Explosive Devices"
+ },
+ "226.1": {
+  "name": "Контрабанда патогенных биологических агентов, сильнодействующих, ядовитых, отравляющих, взрывчатых, радиоактивных веществ, радиационных источников, ядерных материалов, огнестрельного оружия или его основных частей, взрывных устройств, боеприпасов, иного вооружения, иной военной техники, а также сырья, материалов, оборудования, технологий, научно-технической информации или результатов интеллектуальной деятельности, которые могут быть использованы при создании вооружения или военной техники, а равно стратегически важных товаров и ресурсов или культурных ценностей либо особо ценных диких животных, водных биологических ресурсов, растений и грибов",
+  "name_en": "Smuggling of Pathogenic Biological Agents, Potent, Poisonous, Toxic, Explosive, Radioactive Substances, Radiation Sources, Nuclear Materials, Firearms or Their Main Parts, Explosive Devices, Ammunition, Other Weapons, Other Military Equipment, as well as Raw Materials, Materials, Equipment, Technologies, Scientific and Technical Information or Results of Intellectual Activity That May Be Used in Creating Weapons or Military Equipment, Strategically Important Goods and Resources, or Cultural Valuables, or Particularly Valuable Wild Animals, Aquatic Biological Resources, Plants and Fungi",
+  "display": "Ст. 226.1 — Контрабанда патогенных биологических агентов, сильнодействующих, ядовитых, отравляющих, взрывчатых, радиоактивных веществ, радиационных источников, ядерных материалов, огнестрельного оружия или его основных частей, взрывных устройств, боеприпасов, иного вооружения, иной военной техники, а также сырья, материалов, оборудования, технологий, научно-технической информации или результатов интеллектуальной деятельности, которые могут быть использованы при создании вооружения или военной техники, а равно стратегически важных товаров и ресурсов или культурных ценностей либо особо ценных диких животных, водных биологических ресурсов, растений и грибов",
+  "display_en": "Art. 226.1 — Smuggling of Pathogenic Biological Agents, Potent, Poisonous, Toxic, Explosive, Radioactive Substances, Radiation Sources, Nuclear Materials, Firearms or Their Main Parts, Explosive Devices, Ammunition, Other Weapons, Other Military Equipment, as well as Raw Materials, Materials, Equipment, Technologies, Scientific and Technical Information or Results of Intellectual Activity That May Be Used in Creating Weapons or Military Equipment, Strategically Important Goods and Resources, or Cultural Valuables, or Particularly Valuable Wild Animals, Aquatic Biological Resources, Plants and Fungi"
+ },
+ "227": {
+  "name": "Пиратство",
+  "name_en": "Piracy",
+  "display": "Ст. 227 — Пиратство",
+  "display_en": "Art. 227 — Piracy"
+ },
+ "228": {
+  "name": "Незаконные приобретение, хранение, перевозка, изготовление, переработка наркотических средств, психотропных веществ или их аналогов, а также незаконные приобретение, хранение, перевозка растений, содержащих наркотические средства или психотропные вещества, либо их частей, содержащих наркотические средства или психотропные вещества",
+  "name_en": "Illegal Acquisition, Storage, Transportation, Manufacture or Processing of Narcotic Drugs, Psychotropic Substances or Their Analogues, and Illegal Acquisition, Storage or Transportation of Plants Containing Narcotic Drugs or Psychotropic Substances, or Their Parts Containing Narcotic Drugs or Psychotropic Substances",
+  "display": "Ст. 228 — Незаконные приобретение, хранение, перевозка, изготовление, переработка наркотических средств, психотропных веществ или их аналогов, а также незаконные приобретение, хранение, перевозка растений, содержащих наркотические средства или психотропные вещества, либо их частей, содержащих наркотические средства или психотропные вещества",
+  "display_en": "Art. 228 — Illegal Acquisition, Storage, Transportation, Manufacture or Processing of Narcotic Drugs, Psychotropic Substances or Their Analogues, and Illegal Acquisition, Storage or Transportation of Plants Containing Narcotic Drugs or Psychotropic Substances, or Their Parts Containing Narcotic Drugs or Psychotropic Substances"
+ },
+ "228.1": {
+  "name": "Незаконные производство, сбыт или пересылка наркотических средств, психотропных веществ или их аналогов, а также незаконные сбыт или пересылка растений, содержащих наркотические средства или психотропные вещества, либо их частей, содержащих наркотические средства или психотропные вещества",
+  "name_en": "Illegal Production, Sale or Transfer of Narcotic Drugs, Psychotropic Substances or Their Analogues, and Illegal Sale or Transfer of Plants Containing Narcotic Drugs or Psychotropic Substances, or Their Parts Containing Narcotic Drugs or Psychotropic Substances",
+  "display": "Ст. 228.1 — Незаконные производство, сбыт или пересылка наркотических средств, психотропных веществ или их аналогов, а также незаконные сбыт или пересылка растений, содержащих наркотические средства или психотропные вещества, либо их частей, содержащих наркотические средства или психотропные вещества",
+  "display_en": "Art. 228.1 — Illegal Production, Sale or Transfer of Narcotic Drugs, Psychotropic Substances or Their Analogues, and Illegal Sale or Transfer of Plants Containing Narcotic Drugs or Psychotropic Substances, or Their Parts Containing Narcotic Drugs or Psychotropic Substances"
+ },
+ "228.2": {
+  "name": "Нарушение правил оборота наркотических средств или психотропных веществ",
+  "name_en": "Violation of the Rules for the Circulation of Narcotic Drugs or Psychotropic Substances",
+  "display": "Ст. 228.2 — Нарушение правил оборота наркотических средств или психотропных веществ",
+  "display_en": "Art. 228.2 — Violation of the Rules for the Circulation of Narcotic Drugs or Psychotropic Substances"
+ },
+ "228.3": {
+  "name": "Незаконные приобретение, хранение или перевозка прекурсоров наркотических средств или психотропных веществ, а также незаконные приобретение, хранение или перевозка растений, содержащих прекурсоры наркотических средств или психотропных веществ, либо их частей, содержащих прекурсоры наркотических средств или психотропных веществ",
+  "name_en": "Illegal Acquisition, Storage or Transportation of Precursors of Narcotic Drugs or Psychotropic Substances, and Illegal Acquisition, Storage or Transportation of Plants Containing Precursors of Narcotic Drugs or Psychotropic Substances, or Their Parts",
+  "display": "Ст. 228.3 — Незаконные приобретение, хранение или перевозка прекурсоров наркотических средств или психотропных веществ, а также незаконные приобретение, хранение или перевозка растений, содержащих прекурсоры наркотических средств или психотропных веществ, либо их частей, содержащих прекурсоры наркотических средств или психотропных веществ",
+  "display_en": "Art. 228.3 — Illegal Acquisition, Storage or Transportation of Precursors of Narcotic Drugs or Psychotropic Substances, and Illegal Acquisition, Storage or Transportation of Plants Containing Precursors of Narcotic Drugs or Psychotropic Substances, or Their Parts"
+ },
+ "228.4": {
+  "name": "Незаконные производство, сбыт или пересылка прекурсоров наркотических средств или психотропных веществ, а также незаконные сбыт или пересылка растений, содержащих прекурсоры наркотических средств или психотропных веществ, либо их частей, содержащих прекурсоры наркотических средств или психотропных веществ",
+  "name_en": "Illegal Production, Sale or Transfer of Precursors of Narcotic Drugs or Psychotropic Substances, and Illegal Sale or Transfer of Plants Containing Precursors of Narcotic Drugs or Psychotropic Substances, or Their Parts",
+  "display": "Ст. 228.4 — Незаконные производство, сбыт или пересылка прекурсоров наркотических средств или психотропных веществ, а также незаконные сбыт или пересылка растений, содержащих прекурсоры наркотических средств или психотропных веществ, либо их частей, содержащих прекурсоры наркотических средств или психотропных веществ",
+  "display_en": "Art. 228.4 — Illegal Production, Sale or Transfer of Precursors of Narcotic Drugs or Psychotropic Substances, and Illegal Sale or Transfer of Plants Containing Precursors of Narcotic Drugs or Psychotropic Substances, or Their Parts"
+ },
+ "229": {
+  "name": "Хищение либо вымогательство наркотических средств или психотропных веществ, а также растений, содержащих наркотические средства или психотропные вещества, либо их частей, содержащих наркотические средства или психотропные вещества",
+  "name_en": "Theft or Extortion of Narcotic Drugs or Psychotropic Substances, and of Plants Containing Narcotic Drugs or Psychotropic Substances, or Their Parts",
+  "display": "Ст. 229 — Хищение либо вымогательство наркотических средств или психотропных веществ, а также растений, содержащих наркотические средства или психотропные вещества, либо их частей, содержащих наркотические средства или психотропные вещества",
+  "display_en": "Art. 229 — Theft or Extortion of Narcotic Drugs or Psychotropic Substances, and of Plants Containing Narcotic Drugs or Psychotropic Substances, or Their Parts"
+ },
+ "229.1": {
+  "name": "Контрабанда наркотических средств, психотропных веществ, их прекурсоров или аналогов, растений, содержащих наркотические средства, психотропные вещества или их прекурсоры, либо их частей, содержащих наркотические средства, психотропные вещества или их прекурсоры, инструментов или оборудования, находящихся под специальным контролем и используемых для изготовления наркотических средств или психотропных веществ",
+  "name_en": "Smuggling of Narcotic Drugs, Psychotropic Substances, Their Precursors or Analogues, Plants Containing Narcotic Drugs, Psychotropic Substances or Their Precursors, or Their Parts, or of Instruments or Equipment Under Special Control Used for Manufacturing Narcotic Drugs or Psychotropic Substances",
+  "display": "Ст. 229.1 — Контрабанда наркотических средств, психотропных веществ, их прекурсоров или аналогов, растений, содержащих наркотические средства, психотропные вещества или их прекурсоры, либо их частей, содержащих наркотические средства, психотропные вещества или их прекурсоры, инструментов или оборудования, находящихся под специальным контролем и используемых для изготовления наркотических средств или психотропных веществ",
+  "display_en": "Art. 229.1 — Smuggling of Narcotic Drugs, Psychotropic Substances, Their Precursors or Analogues, Plants Containing Narcotic Drugs, Psychotropic Substances or Their Precursors, or Their Parts, or of Instruments or Equipment Under Special Control Used for Manufacturing Narcotic Drugs or Psychotropic Substances"
+ },
+ "230": {
+  "name": "Склонение к потреблению наркотических средств, психотропных веществ или их аналогов",
+  "name_en": "Inducement to Consume Narcotic Drugs, Psychotropic Substances or Their Analogues",
+  "display": "Ст. 230 — Склонение к потреблению наркотических средств, психотропных веществ или их аналогов",
+  "display_en": "Art. 230 — Inducement to Consume Narcotic Drugs, Psychotropic Substances or Their Analogues"
+ },
+ "230.1": {
+  "name": "Склонение спортсмена к использованию субстанций и (или) методов, запрещенных для использования в спорте",
+  "name_en": "Inducement of an Athlete to Use Substances and/or Methods Prohibited for Use in Sports",
+  "display": "Ст. 230.1 — Склонение спортсмена к использованию субстанций и (или) методов, запрещенных для использования в спорте",
+  "display_en": "Art. 230.1 — Inducement of an Athlete to Use Substances and/or Methods Prohibited for Use in Sports"
+ },
+ "230.2": {
+  "name": "Использование в отношении спортсмена субстанций и (или) методов, запрещенных для использования в спорте",
+  "name_en": "Use in Respect of an Athlete of Substances and/or Methods Prohibited for Use in Sports",
+  "display": "Ст. 230.2 — Использование в отношении спортсмена субстанций и (или) методов, запрещенных для использования в спорте",
+  "display_en": "Art. 230.2 — Use in Respect of an Athlete of Substances and/or Methods Prohibited for Use in Sports"
+ },
+ "231": {
+  "name": "Незаконное культивирование растений, содержащих наркотические средства или психотропные вещества либо их прекурсоры",
+  "name_en": "Illegal Cultivation of Plants Containing Narcotic Drugs or Psychotropic Substances or Their Precursors",
+  "display": "Ст. 231 — Незаконное культивирование растений, содержащих наркотические средства или психотропные вещества либо их прекурсоры",
+  "display_en": "Art. 231 — Illegal Cultivation of Plants Containing Narcotic Drugs or Psychotropic Substances or Their Precursors"
+ },
+ "232": {
+  "name": "Организация либо содержание притонов или систематическое предоставление помещений для потребления наркотических средств, психотропных веществ или их аналогов",
+  "name_en": "Organizing or Maintaining Dens, or Systematically Providing Premises for the Consumption of Narcotic Drugs, Psychotropic Substances or Their Analogues",
+  "display": "Ст. 232 — Организация либо содержание притонов или систематическое предоставление помещений для потребления наркотических средств, психотропных веществ или их аналогов",
+  "display_en": "Art. 232 — Organizing or Maintaining Dens, or Systematically Providing Premises for the Consumption of Narcotic Drugs, Psychotropic Substances or Their Analogues"
+ },
+ "233": {
+  "name": "Незаконная выдача либо подделка рецептов или иных документов, дающих право на получение наркотических средств или психотропных веществ",
+  "name_en": "Illegal Issuance or Forgery of Prescriptions or Other Documents Giving the Right to Obtain Narcotic Drugs or Psychotropic Substances",
+  "display": "Ст. 233 — Незаконная выдача либо подделка рецептов или иных документов, дающих право на получение наркотических средств или психотропных веществ",
+  "display_en": "Art. 233 — Illegal Issuance or Forgery of Prescriptions or Other Documents Giving the Right to Obtain Narcotic Drugs or Psychotropic Substances"
+ },
+ "234": {
+  "name": "Незаконный оборот сильнодействующих или ядовитых веществ в целях сбыта",
+  "name_en": "Illegal Circulation of Potent or Poisonous Substances for the Purpose of Sale",
+  "display": "Ст. 234 — Незаконный оборот сильнодействующих или ядовитых веществ в целях сбыта",
+  "display_en": "Art. 234 — Illegal Circulation of Potent or Poisonous Substances for the Purpose of Sale"
+ },
+ "234.1": {
+  "name": "Незаконный оборот новых потенциально опасных психоактивных веществ",
+  "name_en": "Illegal Circulation of New Potentially Dangerous Psychoactive Substances",
+  "display": "Ст. 234.1 — Незаконный оборот новых потенциально опасных психоактивных веществ",
+  "display_en": "Art. 234.1 — Illegal Circulation of New Potentially Dangerous Psychoactive Substances"
+ },
+ "234.2": {
+  "name": "Незаконный оборот метилового спирта (метанола), метанолсодержащих жидкостей",
+  "name_en": "Illegal Circulation of Methyl Alcohol (Methanol) and Methanol-Containing Liquids",
+  "display": "Ст. 234.2 — Незаконный оборот метилового спирта (метанола), метанолсодержащих жидкостей",
+  "display_en": "Art. 234.2 — Illegal Circulation of Methyl Alcohol (Methanol) and Methanol-Containing Liquids"
+ },
+ "235": {
+  "name": "Незаконное осуществление медицинской деятельности или фармацевтической деятельности",
+  "name_en": "Illegal Practice of Medicine or Pharmaceutical Activity",
+  "display": "Ст. 235 — Незаконное осуществление медицинской деятельности или фармацевтической деятельности",
+  "display_en": "Art. 235 — Illegal Practice of Medicine or Pharmaceutical Activity"
+ },
+ "235.1": {
+  "name": "Незаконное производство лекарственных средств и медицинских изделий",
+  "name_en": "Illegal Production of Medicines and Medical Devices",
+  "display": "Ст. 235.1 — Незаконное производство лекарственных средств и медицинских изделий",
+  "display_en": "Art. 235.1 — Illegal Production of Medicines and Medical Devices"
+ },
+ "236": {
+  "name": "Нарушение санитарно-эпидемиологических правил",
+  "name_en": "Violation of Sanitary and Epidemiological Rules",
+  "display": "Ст. 236 — Нарушение санитарно-эпидемиологических правил",
+  "display_en": "Art. 236 — Violation of Sanitary and Epidemiological Rules"
+ },
+ "237": {
+  "name": "Сокрытие информации об обстоятельствах, создающих опасность для жизни или здоровья людей",
+  "name_en": "Concealment of Information About Circumstances Endangering the Life or Health of People",
+  "display": "Ст. 237 — Сокрытие информации об обстоятельствах, создающих опасность для жизни или здоровья людей",
+  "display_en": "Art. 237 — Concealment of Information About Circumstances Endangering the Life or Health of People"
+ },
+ "238": {
+  "name": "Производство, хранение, перевозка либо сбыт товаров и продукции, выполнение работ или оказание услуг, не отвечающих требованиям безопасности",
+  "name_en": "Production, Storage, Transportation, or Sale of Goods and Products, or Performance of Work or Provision of Services That Do Not Meet Safety Requirements",
+  "display": "Ст. 238 — Производство, хранение, перевозка либо сбыт товаров и продукции, выполнение работ или оказание услуг, не отвечающих требованиям безопасности",
+  "display_en": "Art. 238 — Production, Storage, Transportation, or Sale of Goods and Products, or Performance of Work or Provision of Services That Do Not Meet Safety Requirements"
+ },
+ "238.1": {
+  "name": "Обращение фальсифицированных, недоброкачественных и незарегистрированных лекарственных средств, медицинских изделий и оборот фальсифицированных биологически активных добавок",
+  "name_en": "Circulation of Falsified, Substandard and Unregistered Medicines and Medical Devices, and Circulation of Falsified Biologically Active Additives",
+  "display": "Ст. 238.1 — Обращение фальсифицированных, недоброкачественных и незарегистрированных лекарственных средств, медицинских изделий и оборот фальсифицированных биологически активных добавок",
+  "display_en": "Art. 238.1 — Circulation of Falsified, Substandard and Unregistered Medicines and Medical Devices, and Circulation of Falsified Biologically Active Additives"
+ },
+ "239": {
+  "name": "Создание некоммерческой организации, посягающей на личность и права граждан",
+  "name_en": "Creation of a Non-Profit Organization That Infringes on the Person and Rights of Citizens",
+  "display": "Ст. 239 — Создание некоммерческой организации, посягающей на личность и права граждан",
+  "display_en": "Art. 239 — Creation of a Non-Profit Organization That Infringes on the Person and Rights of Citizens"
+ },
+ "240": {
+  "name": "Вовлечение в занятие проституцией",
+  "name_en": "Inducement to Engage in Prostitution",
+  "display": "Ст. 240 — Вовлечение в занятие проституцией",
+  "display_en": "Art. 240 — Inducement to Engage in Prostitution"
+ },
+ "240.1": {
+  "name": "Получение сексуальных услуг несовершеннолетнего",
+  "name_en": "Obtaining Sexual Services from a Minor",
+  "display": "Ст. 240.1 — Получение сексуальных услуг несовершеннолетнего",
+  "display_en": "Art. 240.1 — Obtaining Sexual Services from a Minor"
+ },
+ "241": {
+  "name": "Организация занятия проституцией",
+  "name_en": "Organization of Prostitution",
+  "display": "Ст. 241 — Организация занятия проституцией",
+  "display_en": "Art. 241 — Organization of Prostitution"
+ },
+ "242": {
+  "name": "Незаконные изготовление и оборот порнографических материалов или предметов",
+  "name_en": "Illegal Manufacture and Circulation of Pornographic Materials or Articles",
+  "display": "Ст. 242 — Незаконные изготовление и оборот порнографических материалов или предметов",
+  "display_en": "Art. 242 — Illegal Manufacture and Circulation of Pornographic Materials or Articles"
+ },
+ "242.1": {
+  "name": "Изготовление и оборот материалов или предметов с порнографическими изображениями несовершеннолетних",
+  "name_en": "Manufacture and Circulation of Materials or Articles Containing Pornographic Images of Minors",
+  "display": "Ст. 242.1 — Изготовление и оборот материалов или предметов с порнографическими изображениями несовершеннолетних",
+  "display_en": "Art. 242.1 — Manufacture and Circulation of Materials or Articles Containing Pornographic Images of Minors"
+ },
+ "242.2": {
+  "name": "Использование несовершеннолетнего в целях изготовления порнографических материалов или предметов",
+  "name_en": "Use of a Minor for the Purpose of Manufacturing Pornographic Materials or Articles",
+  "display": "Ст. 242.2 — Использование несовершеннолетнего в целях изготовления порнографических материалов или предметов",
+  "display_en": "Art. 242.2 — Use of a Minor for the Purpose of Manufacturing Pornographic Materials or Articles"
+ },
+ "243": {
+  "name": "Уничтожение или повреждение объектов культурного наследия (памятников истории и культуры) народов Российской Федерации, включенных в единый государственный реестр объектов культурного наследия, выявленных объектов культурного наследия, природных комплексов, объектов, взятых под охрану государства, или культурных ценностей",
+  "name_en": "Destruction of or Damage to Objects of Cultural Heritage (Historical and Cultural Monuments) of the Peoples of the Russian Federation Included in the Unified State Register of Objects of Cultural Heritage, Identified Objects of Cultural Heritage, Natural Complexes, Objects Taken Under State Protection, or Cultural Valuables",
+  "display": "Ст. 243 — Уничтожение или повреждение объектов культурного наследия (памятников истории и культуры) народов Российской Федерации, включенных в единый государственный реестр объектов культурного наследия, выявленных объектов культурного наследия, природных комплексов, объектов, взятых под охрану государства, или культурных ценностей",
+  "display_en": "Art. 243 — Destruction of or Damage to Objects of Cultural Heritage (Historical and Cultural Monuments) of the Peoples of the Russian Federation Included in the Unified State Register of Objects of Cultural Heritage, Identified Objects of Cultural Heritage, Natural Complexes, Objects Taken Under State Protection, or Cultural Valuables"
+ },
+ "243.1": {
+  "name": "Нарушение требований сохранения или использования объектов культурного наследия (памятников истории и культуры) народов Российской Федерации, включенных в единый государственный реестр объектов культурного наследия, либо выявленных объектов культурного наследия",
+  "name_en": "Violation of the Requirements for the Preservation or Use of Objects of Cultural Heritage (Historical and Cultural Monuments) of the Peoples of the Russian Federation Included in the Unified State Register of Objects of Cultural Heritage, or of Identified Objects of Cultural Heritage",
+  "display": "Ст. 243.1 — Нарушение требований сохранения или использования объектов культурного наследия (памятников истории и культуры) народов Российской Федерации, включенных в единый государственный реестр объектов культурного наследия, либо выявленных объектов культурного наследия",
+  "display_en": "Art. 243.1 — Violation of the Requirements for the Preservation or Use of Objects of Cultural Heritage (Historical and Cultural Monuments) of the Peoples of the Russian Federation Included in the Unified State Register of Objects of Cultural Heritage, or of Identified Objects of Cultural Heritage"
+ },
+ "243.2": {
+  "name": "Незаконные поиск и (или) изъятие археологических предметов из мест залегания",
+  "name_en": "Illegal Search for and/or Seizure of Archaeological Items from Sites of Their Occurrence",
+  "display": "Ст. 243.2 — Незаконные поиск и (или) изъятие археологических предметов из мест залегания",
+  "display_en": "Art. 243.2 — Illegal Search for and/or Seizure of Archaeological Items from Sites of Their Occurrence"
+ },
+ "243.3": {
+  "name": "Уклонение исполнителя земляных, строительных, мелиоративных, хозяйственных или иных работ либо археологических полевых работ от обязательной передачи государству обнаруженных предметов, имеющих особую культурную ценность, или культурных ценностей в крупном размере",
+  "name_en": "Evasion by a Contractor Performing Earthwork, Construction, Land-Reclamation, Economic or Other Work, or Archaeological Field Work, from Mandatory Transfer to the State of Discovered Items of Special Cultural Value or Cultural Valuables in a Large Amount",
+  "display": "Ст. 243.3 — Уклонение исполнителя земляных, строительных, мелиоративных, хозяйственных или иных работ либо археологических полевых работ от обязательной передачи государству обнаруженных предметов, имеющих особую культурную ценность, или культурных ценностей в крупном размере",
+  "display_en": "Art. 243.3 — Evasion by a Contractor Performing Earthwork, Construction, Land-Reclamation, Economic or Other Work, or Archaeological Field Work, from Mandatory Transfer to the State of Discovered Items of Special Cultural Value or Cultural Valuables in a Large Amount"
+ },
+ "243.4": {
+  "name": "Уничтожение, повреждение либо осквернение воинских захоронений, захоронений жертв геноцида советского народа, а также памятников, стел, обелисков и иных мемориальных сооружений",
+  "name_en": "Destruction, Damage, or Desecration of Military Burial Grounds, Burial Grounds of Victims of the Genocide of the Soviet People, and of Monuments, Steles, Obelisks and Other Memorial Structures",
+  "display": "Ст. 243.4 — Уничтожение, повреждение либо осквернение воинских захоронений, захоронений жертв геноцида советского народа, а также памятников, стел, обелисков и иных мемориальных сооружений",
+  "display_en": "Art. 243.4 — Destruction, Damage, or Desecration of Military Burial Grounds, Burial Grounds of Victims of the Genocide of the Soviet People, and of Monuments, Steles, Obelisks and Other Memorial Structures"
+ },
+ "244": {
+  "name": "Надругательство над телами умерших и местами их захоронения",
+  "name_en": "Desecration of the Bodies of the Dead and Their Places of Burial",
+  "display": "Ст. 244 — Надругательство над телами умерших и местами их захоронения",
+  "display_en": "Art. 244 — Desecration of the Bodies of the Dead and Their Places of Burial"
+ },
+ "245": {
+  "name": "Жестокое обращение с животными",
+  "name_en": "Cruelty to Animals",
+  "display": "Ст. 245 — Жестокое обращение с животными",
+  "display_en": "Art. 245 — Cruelty to Animals"
+ },
+ "246": {
+  "name": "Нарушение правил охраны окружающей среды при производстве работ",
+  "name_en": "Violation of Rules for the Protection of the Environment in the Conduct of Work",
+  "display": "Ст. 246 — Нарушение правил охраны окружающей среды при производстве работ",
+  "display_en": "Art. 246 — Violation of Rules for the Protection of the Environment in the Conduct of Work"
+ },
+ "247": {
+  "name": "Нарушение правил обращения экологически опасных веществ и отходов",
+  "name_en": "Violation of Rules for Handling Environmentally Hazardous Substances and Waste",
+  "display": "Ст. 247 — Нарушение правил обращения экологически опасных веществ и отходов",
+  "display_en": "Art. 247 — Violation of Rules for Handling Environmentally Hazardous Substances and Waste"
+ },
+ "248": {
+  "name": "Нарушение правил безопасности при обращении с патогенными биологическими агентами",
+  "name_en": "Violation of Safety Rules in Handling Pathogenic Biological Agents",
+  "display": "Ст. 248 — Нарушение правил безопасности при обращении с патогенными биологическими агентами",
+  "display_en": "Art. 248 — Violation of Safety Rules in Handling Pathogenic Biological Agents"
+ },
+ "249": {
+  "name": "Нарушение ветеринарных правил и правил, установленных для борьбы с болезнями и вредителями растений",
+  "name_en": "Violation of Veterinary Rules and Rules Established for Combating Plant Diseases and Pests",
+  "display": "Ст. 249 — Нарушение ветеринарных правил и правил, установленных для борьбы с болезнями и вредителями растений",
+  "display_en": "Art. 249 — Violation of Veterinary Rules and Rules Established for Combating Plant Diseases and Pests"
+ },
+ "250": {
+  "name": "Загрязнение вод",
+  "name_en": "Pollution of Water",
+  "display": "Ст. 250 — Загрязнение вод",
+  "display_en": "Art. 250 — Pollution of Water"
+ },
+ "251": {
+  "name": "Загрязнение атмосферы",
+  "name_en": "Pollution of the Atmosphere",
+  "display": "Ст. 251 — Загрязнение атмосферы",
+  "display_en": "Art. 251 — Pollution of the Atmosphere"
+ },
+ "252": {
+  "name": "Загрязнение морской среды",
+  "name_en": "Pollution of the Marine Environment",
+  "display": "Ст. 252 — Загрязнение морской среды",
+  "display_en": "Art. 252 — Pollution of the Marine Environment"
+ },
+ "253": {
+  "name": "Нарушение законодательства Российской Федерации о континентальном шельфе и об исключительной экономической зоне Российской Федерации",
+  "name_en": "Violation of the Legislation of the Russian Federation on the Continental Shelf and the Exclusive Economic Zone of the Russian Federation",
+  "display": "Ст. 253 — Нарушение законодательства Российской Федерации о континентальном шельфе и об исключительной экономической зоне Российской Федерации",
+  "display_en": "Art. 253 — Violation of the Legislation of the Russian Federation on the Continental Shelf and the Exclusive Economic Zone of the Russian Federation"
+ },
+ "254": {
+  "name": "Порча земли",
+  "name_en": "Spoiling of Land",
+  "display": "Ст. 254 — Порча земли",
+  "display_en": "Art. 254 — Spoiling of Land"
+ },
+ "255": {
+  "name": "Нарушение правил охраны и использования недр",
+  "name_en": "Violation of Rules for the Protection and Use of Subsoil",
+  "display": "Ст. 255 — Нарушение правил охраны и использования недр",
+  "display_en": "Art. 255 — Violation of Rules for the Protection and Use of Subsoil"
+ },
+ "256": {
+  "name": "Незаконная добыча (вылов) водных биологических ресурсов",
+  "name_en": "Illegal Catching of Aquatic Biological Resources",
+  "display": "Ст. 256 — Незаконная добыча (вылов) водных биологических ресурсов",
+  "display_en": "Art. 256 — Illegal Catching of Aquatic Biological Resources"
+ },
+ "257": {
+  "name": "Нарушение правил охраны водных биологических ресурсов",
+  "name_en": "Violation of Rules for the Protection of Aquatic Biological Resources",
+  "display": "Ст. 257 — Нарушение правил охраны водных биологических ресурсов",
+  "display_en": "Art. 257 — Violation of Rules for the Protection of Aquatic Biological Resources"
+ },
+ "258": {
+  "name": "Незаконная охота",
+  "name_en": "Illegal Hunting",
+  "display": "Ст. 258 — Незаконная охота",
+  "display_en": "Art. 258 — Illegal Hunting"
+ },
+ "258.1": {
+  "name": "Незаконные добыча и оборот особо ценных диких животных и водных биологических ресурсов, принадлежащих к видам, занесенным в Красную книгу Российской Федерации и (или) охраняемым международными договорами Российской Федерации",
+  "name_en": "Illegal Acquisition and Circulation of Particularly Valuable Wild Animals and Aquatic Biological Resources Belonging to Species Listed in the Red Data Book of the Russian Federation and/or Protected by International Treaties of the Russian Federation",
+  "display": "Ст. 258.1 — Незаконные добыча и оборот особо ценных диких животных и водных биологических ресурсов, принадлежащих к видам, занесенным в Красную книгу Российской Федерации и (или) охраняемым международными договорами Российской Федерации",
+  "display_en": "Art. 258.1 — Illegal Acquisition and Circulation of Particularly Valuable Wild Animals and Aquatic Biological Resources Belonging to Species Listed in the Red Data Book of the Russian Federation and/or Protected by International Treaties of the Russian Federation"
+ },
+ "259": {
+  "name": "Уничтожение критических местообитаний для организмов, занесенных в Красную книгу Российской Федерации",
+  "name_en": "Destruction of Critical Habitats for Organisms Listed in the Red Data Book of the Russian Federation",
+  "display": "Ст. 259 — Уничтожение критических местообитаний для организмов, занесенных в Красную книгу Российской Федерации",
+  "display_en": "Art. 259 — Destruction of Critical Habitats for Organisms Listed in the Red Data Book of the Russian Federation"
+ },
+ "260": {
+  "name": "Незаконная рубка лесных насаждений",
+  "name_en": "Illegal Felling of Forest Stands",
+  "display": "Ст. 260 — Незаконная рубка лесных насаждений",
+  "display_en": "Art. 260 — Illegal Felling of Forest Stands"
+ },
+ "260.1": {
+  "name": "Умышленные уничтожение или повреждение, а равно незаконные добыча, сбор и оборот особо ценных растений и грибов, занесенных в Красную книгу Российской Федерации и (или) охраняемых международными договорами Российской Федерации",
+  "name_en": "Intentional Destruction or Damage of, or Illegal Gathering, Collection and Circulation of, Particularly Valuable Plants and Fungi Listed in the Red Data Book of the Russian Federation and/or Protected by International Treaties of the Russian Federation",
+  "display": "Ст. 260.1 — Умышленные уничтожение или повреждение, а равно незаконные добыча, сбор и оборот особо ценных растений и грибов, занесенных в Красную книгу Российской Федерации и (или) охраняемых международными договорами Российской Федерации",
+  "display_en": "Art. 260.1 — Intentional Destruction or Damage of, or Illegal Gathering, Collection and Circulation of, Particularly Valuable Plants and Fungi Listed in the Red Data Book of the Russian Federation and/or Protected by International Treaties of the Russian Federation"
+ },
+ "261": {
+  "name": "Уничтожение или повреждение лесных насаждений",
+  "name_en": "Destruction or Damage of Forest Stands",
+  "display": "Ст. 261 — Уничтожение или повреждение лесных насаждений",
+  "display_en": "Art. 261 — Destruction or Damage of Forest Stands"
+ },
+ "262": {
+  "name": "Нарушение режима особо охраняемых природных территорий и природных объектов",
+  "name_en": "Violation of the Regime of Specially Protected Natural Territories and Natural Sites",
+  "display": "Ст. 262 — Нарушение режима особо охраняемых природных территорий и природных объектов",
+  "display_en": "Art. 262 — Violation of the Regime of Specially Protected Natural Territories and Natural Sites"
+ },
+ "263": {
+  "name": "Нарушение правил безопасности движения и эксплуатации железнодорожного, воздушного, морского и внутреннего водного транспорта и метрополитена",
+  "name_en": "Violation of Safety Rules for the Operation of Rail, Air, Sea and Inland Water Transport and the Metro",
+  "display": "Ст. 263 — Нарушение правил безопасности движения и эксплуатации железнодорожного, воздушного, морского и внутреннего водного транспорта и метрополитена",
+  "display_en": "Art. 263 — Violation of Safety Rules for the Operation of Rail, Air, Sea and Inland Water Transport and the Metro"
+ },
+ "263.1": {
+  "name": "Нарушение требований в области транспортной безопасности",
+  "name_en": "Violation of Requirements in the Sphere of Transport Security",
+  "display": "Ст. 263.1 — Нарушение требований в области транспортной безопасности",
+  "display_en": "Art. 263.1 — Violation of Requirements in the Sphere of Transport Security"
+ },
+ "264": {
+  "name": "Нарушение правил дорожного движения и эксплуатации транспортных средств",
+  "name_en": "Violation of Traffic Rules and Rules for the Operation of Vehicles",
+  "display": "Ст. 264 — Нарушение правил дорожного движения и эксплуатации транспортных средств",
+  "display_en": "Art. 264 — Violation of Traffic Rules and Rules for the Operation of Vehicles"
+ },
+ "264.1": {
+  "name": "Управление транспортным средством в состоянии опьянения лицом, подвергнутым административному наказанию или имеющим судимость",
+  "name_en": "Driving a Vehicle While Intoxicated by a Person Subjected to Administrative Punishment or Having a Criminal Record",
+  "display": "Ст. 264.1 — Управление транспортным средством в состоянии опьянения лицом, подвергнутым административному наказанию или имеющим судимость",
+  "display_en": "Art. 264.1 — Driving a Vehicle While Intoxicated by a Person Subjected to Administrative Punishment or Having a Criminal Record"
+ },
+ "264.2": {
+  "name": "Нарушение правил дорожного движения лицом, подвергнутым административному наказанию и лишенным права управления транспортными средствами",
+  "name_en": "Violation of Traffic Rules by a Person Subjected to Administrative Punishment and Deprived of the Right to Drive Vehicles",
+  "display": "Ст. 264.2 — Нарушение правил дорожного движения лицом, подвергнутым административному наказанию и лишенным права управления транспортными средствами",
+  "display_en": "Art. 264.2 — Violation of Traffic Rules by a Person Subjected to Administrative Punishment and Deprived of the Right to Drive Vehicles"
+ },
+ "264.3": {
+  "name": "Управление транспортным средством лицом, лишенным права управления транспортными средствами и подвергнутым административному наказанию или имеющим судимость",
+  "name_en": "Driving a Vehicle by a Person Deprived of the Right to Drive Vehicles and Subjected to Administrative Punishment or Having a Criminal Record",
+  "display": "Ст. 264.3 — Управление транспортным средством лицом, лишенным права управления транспортными средствами и подвергнутым административному наказанию или имеющим судимость",
+  "display_en": "Art. 264.3 — Driving a Vehicle by a Person Deprived of the Right to Drive Vehicles and Subjected to Administrative Punishment or Having a Criminal Record"
+ },
+ "265": {
+  "name": "Утратила силу",
+  "name_en": "Repealed",
+  "display": "Ст. 265 (утратила силу)",
+  "display_en": "Art. 265 (repealed)"
+ },
+ "266": {
+  "name": "Недоброкачественный ремонт транспортных средств и выпуск их в эксплуатацию с техническими неисправностями",
+  "name_en": "Substandard Repair of Vehicles and Putting Them into Operation with Technical Defects",
+  "display": "Ст. 266 — Недоброкачественный ремонт транспортных средств и выпуск их в эксплуатацию с техническими неисправностями",
+  "display_en": "Art. 266 — Substandard Repair of Vehicles and Putting Them into Operation with Technical Defects"
+ },
+ "267": {
+  "name": "Приведение в негодность транспортных средств или путей сообщения",
+  "name_en": "Putting Vehicles or Means of Communication out of Order",
+  "display": "Ст. 267 — Приведение в негодность транспортных средств или путей сообщения",
+  "display_en": "Art. 267 — Putting Vehicles or Means of Communication out of Order"
+ },
+ "267.1": {
+  "name": "Действия, угрожающие безопасной эксплуатации транспортных средств",
+  "name_en": "Actions Endangering the Safe Operation of Vehicles",
+  "display": "Ст. 267.1 — Действия, угрожающие безопасной эксплуатации транспортных средств",
+  "display_en": "Art. 267.1 — Actions Endangering the Safe Operation of Vehicles"
+ },
+ "268": {
+  "name": "Нарушение правил, обеспечивающих безопасную работу транспорта",
+  "name_en": "Violation of Rules Ensuring the Safe Operation of Transport",
+  "display": "Ст. 268 — Нарушение правил, обеспечивающих безопасную работу транспорта",
+  "display_en": "Art. 268 — Violation of Rules Ensuring the Safe Operation of Transport"
+ },
+ "269": {
+  "name": "Утратила силу",
+  "name_en": "Repealed",
+  "display": "Ст. 269 (утратила силу)",
+  "display_en": "Art. 269 (repealed)"
+ },
+ "270": {
+  "name": "Неоказание капитаном судна помощи терпящим бедствие",
+  "name_en": "Failure by a Ship's Captain to Render Assistance to Persons in Distress",
+  "display": "Ст. 270 — Неоказание капитаном судна помощи терпящим бедствие",
+  "display_en": "Art. 270 — Failure by a Ship's Captain to Render Assistance to Persons in Distress"
+ },
+ "271": {
+  "name": "Нарушение правил международных полетов",
+  "name_en": "Violation of the Rules of International Flights",
+  "display": "Ст. 271 — Нарушение правил международных полетов",
+  "display_en": "Art. 271 — Violation of the Rules of International Flights"
+ },
+ "271.1": {
+  "name": "Нарушение правил использования воздушного пространства Российской Федерации",
+  "name_en": "Violation of the Rules for Using the Airspace of the Russian Federation",
+  "display": "Ст. 271.1 — Нарушение правил использования воздушного пространства Российской Федерации",
+  "display_en": "Art. 271.1 — Violation of the Rules for Using the Airspace of the Russian Federation"
+ },
+ "272": {
+  "name": "Неправомерный доступ к компьютерной информации",
+  "name_en": "Unlawful Access to Computer Information",
+  "display": "Ст. 272 — Неправомерный доступ к компьютерной информации",
+  "display_en": "Art. 272 — Unlawful Access to Computer Information"
+ },
+ "272.1": {
+  "name": "Незаконные использование и (или) передача, сбор и хранение компьютерной информации, содержащей персональные данные, а равно создание и (или) обеспечение функционирования информационных ресурсов, предназначенных для её незаконного хранения и (или) распространения",
+  "name_en": "Unlawful Use, Transfer, Collection and/or Storage of Computer Information Containing Personal Data",
+  "display": "Ст. 272.1 — Незаконные использование и (или) передача, сбор и хранение компьютерной информации, содержащей персональные данные, а равно создание и (или) обеспечение функционирования информационных ресурсов, предназначенных для её незаконного хранения и (или) распространения",
+  "display_en": "Art. 272.1 — Unlawful Use, Transfer, Collection and/or Storage of Computer Information Containing Personal Data"
+ },
+ "273": {
+  "name": "Создание, использование и распространение вредоносных компьютерных программ",
+  "name_en": "Creation, Use and Distribution of Malicious Computer Programs",
+  "display": "Ст. 273 — Создание, использование и распространение вредоносных компьютерных программ",
+  "display_en": "Art. 273 — Creation, Use and Distribution of Malicious Computer Programs"
+ },
+ "274": {
+  "name": "Нарушение правил эксплуатации средств хранения, обработки или передачи компьютерной информации и информационно-телекоммуникационных сетей",
+  "name_en": "Violation of the Rules for Operating Means of Storing, Processing, or Transmitting Computer Information and Information and Telecommunications Networks",
+  "display": "Ст. 274 — Нарушение правил эксплуатации средств хранения, обработки или передачи компьютерной информации и информационно-телекоммуникационных сетей",
+  "display_en": "Art. 274 — Violation of the Rules for Operating Means of Storing, Processing, or Transmitting Computer Information and Information and Telecommunications Networks"
+ },
+ "274.1": {
+  "name": "Неправомерное воздействие на критическую информационную инфраструктуру Российской Федерации",
+  "name_en": "Unlawful Effect on the Critical Information Infrastructure of the Russian Federation",
+  "display": "Ст. 274.1 — Неправомерное воздействие на критическую информационную инфраструктуру Российской Федерации",
+  "display_en": "Art. 274.1 — Unlawful Effect on the Critical Information Infrastructure of the Russian Federation"
+ },
+ "274.2": {
+  "name": "Нарушение правил централизованного управления техническими средствами противодействия угрозам устойчивости, безопасности и целостности функционирования Рунета",
+  "name_en": "Violation of the Rules for Centralized Management of Technical Means Countering Threats to the Stability, Security and Integrity of the Runet",
+  "display": "Ст. 274.2 — Нарушение правил централизованного управления техническими средствами противодействия угрозам устойчивости, безопасности и целостности функционирования Рунета",
+  "display_en": "Art. 274.2 — Violation of the Rules for Centralized Management of Technical Means Countering Threats to the Stability, Security and Integrity of the Runet"
+ },
+ "275": {
+  "name": "Государственная измена",
+  "name_en": "High Treason",
+  "display": "Ст. 275 — Государственная измена",
+  "display_en": "Art. 275 — High Treason"
+ },
+ "275.1": {
+  "name": "Сотрудничество на конфиденциальной основе с иностранным государством, международной либо иностранной организацией",
+  "name_en": "Confidential Cooperation with a Foreign State, an International or a Foreign Organization",
+  "display": "Ст. 275.1 — Сотрудничество на конфиденциальной основе с иностранным государством, международной либо иностранной организацией",
+  "display_en": "Art. 275.1 — Confidential Cooperation with a Foreign State, an International or a Foreign Organization"
+ },
+ "276": {
+  "name": "Шпионаж",
+  "name_en": "Espionage",
+  "display": "Ст. 276 — Шпионаж",
+  "display_en": "Art. 276 — Espionage"
+ },
+ "277": {
+  "name": "Посягательство на жизнь государственного или общественного деятеля",
+  "name_en": "Encroachment on the Life of a Statesman or Public Figure",
+  "display": "Ст. 277 — Посягательство на жизнь государственного или общественного деятеля",
+  "display_en": "Art. 277 — Encroachment on the Life of a Statesman or Public Figure"
+ },
+ "278": {
+  "name": "Насильственный захват власти или насильственное удержание власти",
+  "name_en": "Violent Seizure or Violent Retention of Power",
+  "display": "Ст. 278 — Насильственный захват власти или насильственное удержание власти",
+  "display_en": "Art. 278 — Violent Seizure or Violent Retention of Power"
+ },
+ "279": {
+  "name": "Вооруженный мятеж",
+  "name_en": "Armed Mutiny",
+  "display": "Ст. 279 — Вооруженный мятеж",
+  "display_en": "Art. 279 — Armed Mutiny"
+ },
+ "280": {
+  "name": "Публичные призывы к осуществлению экстремистской деятельности",
+  "name_en": "Public Calls for the Carrying Out of Extremist Activity",
+  "display": "Ст. 280 — Публичные призывы к осуществлению экстремистской деятельности",
+  "display_en": "Art. 280 — Public Calls for the Carrying Out of Extremist Activity"
+ },
+ "280.1": {
+  "name": "Публичные призывы к осуществлению действий, направленных на нарушение территориальной целостности Российской Федерации",
+  "name_en": "Public Calls for Actions Aimed at Violating the Territorial Integrity of the Russian Federation",
+  "display": "Ст. 280.1 — Публичные призывы к осуществлению действий, направленных на нарушение территориальной целостности Российской Федерации",
+  "display_en": "Art. 280.1 — Public Calls for Actions Aimed at Violating the Territorial Integrity of the Russian Federation"
+ },
+ "280.2": {
+  "name": "Нарушение территориальной целостности Российской Федерации",
+  "name_en": "Violation of the Territorial Integrity of the Russian Federation",
+  "display": "Ст. 280.2 — Нарушение территориальной целостности Российской Федерации",
+  "display_en": "Art. 280.2 — Violation of the Territorial Integrity of the Russian Federation"
+ },
+ "280.3": {
+  "name": "Публичные действия, направленные на дискредитацию использования Вооруженных Сил Российской Федерации",
+  "name_en": "Public Actions Aimed at Discrediting the Use of the Armed Forces of the Russian Federation",
+  "display": "Ст. 280.3 — Публичные действия, направленные на дискредитацию использования Вооруженных Сил Российской Федерации",
+  "display_en": "Art. 280.3 — Public Actions Aimed at Discrediting the Use of the Armed Forces of the Russian Federation"
+ },
+ "280.4": {
+  "name": "Публичные призывы к осуществлению деятельности, направленной против безопасности государства",
+  "name_en": "Public Calls for Carrying Out Activity Directed Against the Security of the State",
+  "display": "Ст. 280.4 — Публичные призывы к осуществлению деятельности, направленной против безопасности государства",
+  "display_en": "Art. 280.4 — Public Calls for Carrying Out Activity Directed Against the Security of the State"
+ },
+ "281": {
+  "name": "Диверсия",
+  "name_en": "Sabotage (Diversion)",
+  "display": "Ст. 281 — Диверсия",
+  "display_en": "Art. 281 — Sabotage (Diversion)"
+ },
+ "281.1": {
+  "name": "Содействие диверсионной деятельности",
+  "name_en": "Assistance in Sabotage Activity",
+  "display": "Ст. 281.1 — Содействие диверсионной деятельности",
+  "display_en": "Art. 281.1 — Assistance in Sabotage Activity"
+ },
+ "281.2": {
+  "name": "Прохождение обучения в целях осуществления диверсионной деятельности",
+  "name_en": "Undergoing Training for the Purpose of Carrying Out Sabotage Activity",
+  "display": "Ст. 281.2 — Прохождение обучения в целях осуществления диверсионной деятельности",
+  "display_en": "Art. 281.2 — Undergoing Training for the Purpose of Carrying Out Sabotage Activity"
+ },
+ "281.3": {
+  "name": "Организация диверсионного сообщества и участие в нем",
+  "name_en": "Organization of a Sabotage Community and Participation Therein",
+  "display": "Ст. 281.3 — Организация диверсионного сообщества и участие в нем",
+  "display_en": "Art. 281.3 — Organization of a Sabotage Community and Participation Therein"
+ },
+ "282": {
+  "name": "Возбуждение ненависти либо вражды, а равно унижение человеческого достоинства",
+  "name_en": "Incitement of Hatred or Enmity, and Also Abasement of Human Dignity",
+  "display": "Ст. 282 — Возбуждение ненависти либо вражды, а равно унижение человеческого достоинства",
+  "display_en": "Art. 282 — Incitement of Hatred or Enmity, and Also Abasement of Human Dignity"
+ },
+ "282.1": {
+  "name": "Организация экстремистского сообщества",
+  "name_en": "Organization of an Extremist Community",
+  "display": "Ст. 282.1 — Организация экстремистского сообщества",
+  "display_en": "Art. 282.1 — Organization of an Extremist Community"
+ },
+ "282.2": {
+  "name": "Организация деятельности экстремистской организации и участие в деятельности такой организации",
+  "name_en": "Organization of the Activity of an Extremist Organization and Participation in the Activity of Such an Organization",
+  "display": "Ст. 282.2 — Организация деятельности экстремистской организации и участие в деятельности такой организации",
+  "display_en": "Art. 282.2 — Organization of the Activity of an Extremist Organization and Participation in the Activity of Such an Organization"
+ },
+ "282.3": {
+  "name": "Финансирование экстремистской деятельности",
+  "name_en": "Financing of Extremist Activity",
+  "display": "Ст. 282.3 — Финансирование экстремистской деятельности",
+  "display_en": "Art. 282.3 — Financing of Extremist Activity"
+ },
+ "282.4": {
+  "name": "Неоднократные пропаганда либо публичное демонстрирование нацистской атрибутики или символики, либо атрибутики или символики экстремистских организаций",
+  "name_en": "Repeated Propaganda or Public Display of Nazi Paraphernalia or Symbols, or Paraphernalia or Symbols of Extremist Organizations",
+  "display": "Ст. 282.4 — Неоднократные пропаганда либо публичное демонстрирование нацистской атрибутики или символики, либо атрибутики или символики экстремистских организаций",
+  "display_en": "Art. 282.4 — Repeated Propaganda or Public Display of Nazi Paraphernalia or Symbols, or Paraphernalia or Symbols of Extremist Organizations"
+ },
+ "283": {
+  "name": "Разглашение государственной тайны",
+  "name_en": "Disclosure of a State Secret",
+  "display": "Ст. 283 — Разглашение государственной тайны",
+  "display_en": "Art. 283 — Disclosure of a State Secret"
+ },
+ "283.1": {
+  "name": "Незаконное получение сведений, составляющих государственную тайну",
+  "name_en": "Illegal Obtaining of Information Constituting a State Secret",
+  "display": "Ст. 283.1 — Незаконное получение сведений, составляющих государственную тайну",
+  "display_en": "Art. 283.1 — Illegal Obtaining of Information Constituting a State Secret"
+ },
+ "283.2": {
+  "name": "Нарушение требований по защите государственной тайны",
+  "name_en": "Violation of the Requirements for the Protection of a State Secret",
+  "display": "Ст. 283.2 — Нарушение требований по защите государственной тайны",
+  "display_en": "Art. 283.2 — Violation of the Requirements for the Protection of a State Secret"
+ },
+ "284": {
+  "name": "Утрата документов, содержащих государственную тайну",
+  "name_en": "Loss of Documents Containing a State Secret",
+  "display": "Ст. 284 — Утрата документов, содержащих государственную тайну",
+  "display_en": "Art. 284 — Loss of Documents Containing a State Secret"
+ },
+ "284.1": {
+  "name": "Осуществление деятельности иностранной или международной организации, в отношении которой принято решение о признании нежелательной на территории Российской Федерации ее деятельности",
+  "name_en": "Carrying Out the Activity of a Foreign or International Organization in Respect of Which a Decision Has Been Taken That Its Activity Is Undesirable in the Territory of the Russian Federation",
+  "display": "Ст. 284.1 — Осуществление деятельности иностранной или международной организации, в отношении которой принято решение о признании нежелательной на территории Российской Федерации ее деятельности",
+  "display_en": "Art. 284.1 — Carrying Out the Activity of a Foreign or International Organization in Respect of Which a Decision Has Been Taken That Its Activity Is Undesirable in the Territory of the Russian Federation"
+ },
+ "284.2": {
+  "name": "Призывы к введению мер ограничительного характера в отношении Российской Федерации, граждан Российской Федерации или российских юридических лиц",
+  "name_en": "Calls for the Introduction of Restrictive Measures Against the Russian Federation, Citizens of the Russian Federation, or Russian Legal Entities",
+  "display": "Ст. 284.2 — Призывы к введению мер ограничительного характера в отношении Российской Федерации, граждан Российской Федерации или российских юридических лиц",
+  "display_en": "Art. 284.2 — Calls for the Introduction of Restrictive Measures Against the Russian Federation, Citizens of the Russian Federation, or Russian Legal Entities"
+ },
+ "284.3": {
+  "name": "Оказание содействия в исполнении решений международных организаций, в которых Российская Федерация не участвует, или иностранных государственных органов",
+  "name_en": "Rendering Assistance in the Execution of Decisions of International Organizations in Which the Russian Federation Does Not Participate, or of Foreign State Bodies",
+  "display": "Ст. 284.3 — Оказание содействия в исполнении решений международных организаций, в которых Российская Федерация не участвует, или иностранных государственных органов",
+  "display_en": "Art. 284.3 — Rendering Assistance in the Execution of Decisions of International Organizations in Which the Russian Federation Does Not Participate, or of Foreign State Bodies"
+ },
+ "285": {
+  "name": "Злоупотребление должностными полномочиями",
+  "name_en": "Abuse of Official Authority",
+  "display": "Ст. 285 — Злоупотребление должностными полномочиями",
+  "display_en": "Art. 285 — Abuse of Official Authority"
+ },
+ "285.1": {
+  "name": "Нецелевое расходование бюджетных средств",
+  "name_en": "Misuse of Budgetary Funds",
+  "display": "Ст. 285.1 — Нецелевое расходование бюджетных средств",
+  "display_en": "Art. 285.1 — Misuse of Budgetary Funds"
+ },
+ "285.2": {
+  "name": "Нецелевое расходование средств государственных внебюджетных фондов",
+  "name_en": "Misuse of Funds of State Extra-Budgetary Funds",
+  "display": "Ст. 285.2 — Нецелевое расходование средств государственных внебюджетных фондов",
+  "display_en": "Art. 285.2 — Misuse of Funds of State Extra-Budgetary Funds"
+ },
+ "285.3": {
+  "name": "Внесение в единые государственные реестры заведомо недостоверных сведений",
+  "name_en": "Entry of Knowingly Inaccurate Information into Unified State Registers",
+  "display": "Ст. 285.3 — Внесение в единые государственные реестры заведомо недостоверных сведений",
+  "display_en": "Art. 285.3 — Entry of Knowingly Inaccurate Information into Unified State Registers"
+ },
+ "285.4": {
+  "name": "Злоупотребление должностными полномочиями при выполнении государственного оборонного заказа",
+  "name_en": "Abuse of Official Authority in the Performance of a State Defence Order",
+  "display": "Ст. 285.4 — Злоупотребление должностными полномочиями при выполнении государственного оборонного заказа",
+  "display_en": "Art. 285.4 — Abuse of Official Authority in the Performance of a State Defence Order"
+ },
+ "285.5": {
+  "name": "Нарушение должностным лицом условий государственного контракта по государственному оборонному заказу либо условий договора, заключенного в целях выполнения государственного оборонного заказа",
+  "name_en": "Violation by an Official of the Terms of a State Contract Under a State Defence Order or of the Terms of a Contract Concluded for the Purpose of Performing a State Defence Order",
+  "display": "Ст. 285.5 — Нарушение должностным лицом условий государственного контракта по государственному оборонному заказу либо условий договора, заключенного в целях выполнения государственного оборонного заказа",
+  "display_en": "Art. 285.5 — Violation by an Official of the Terms of a State Contract Under a State Defence Order or of the Terms of a Contract Concluded for the Purpose of Performing a State Defence Order"
+ },
+ "285.6": {
+  "name": "Отказ или уклонение должностного лица, подвергнутого административному наказанию, от заключения государственного контракта по государственному оборонному заказу либо договора, необходимого для выполнения государственного оборонного заказа",
+  "name_en": "Refusal or Evasion by an Official Subjected to Administrative Punishment to Conclude a State Contract Under a State Defence Order or a Contract Necessary for the Performance of a State Defence Order",
+  "display": "Ст. 285.6 — Отказ или уклонение должностного лица, подвергнутого административному наказанию, от заключения государственного контракта по государственному оборонному заказу либо договора, необходимого для выполнения государственного оборонного заказа",
+  "display_en": "Art. 285.6 — Refusal or Evasion by an Official Subjected to Administrative Punishment to Conclude a State Contract Under a State Defence Order or a Contract Necessary for the Performance of a State Defence Order"
+ },
+ "286": {
+  "name": "Превышение должностных полномочий",
+  "name_en": "Exceeding Official Authority",
+  "display": "Ст. 286 — Превышение должностных полномочий",
+  "display_en": "Art. 286 — Exceeding Official Authority"
+ },
+ "286.1": {
+  "name": "Неисполнение сотрудником органа внутренних дел приказа",
+  "name_en": "Non-Performance by a Law Enforcement Officer of an Order",
+  "display": "Ст. 286.1 — Неисполнение сотрудником органа внутренних дел приказа",
+  "display_en": "Art. 286.1 — Non-Performance by a Law Enforcement Officer of an Order"
+ },
+ "287": {
+  "name": "Отказ в предоставлении информации Федеральному Собранию Российской Федерации или Счетной палате Российской Федерации",
+  "name_en": "Refusal to Provide Information to the Federal Assembly of the Russian Federation or the Accounts Chamber of the Russian Federation",
+  "display": "Ст. 287 — Отказ в предоставлении информации Федеральному Собранию Российской Федерации или Счетной палате Российской Федерации",
+  "display_en": "Art. 287 — Refusal to Provide Information to the Federal Assembly of the Russian Federation or the Accounts Chamber of the Russian Federation"
+ },
+ "288": {
+  "name": "Присвоение полномочий должностного лица",
+  "name_en": "Appropriation of the Powers of an Official",
+  "display": "Ст. 288 — Присвоение полномочий должностного лица",
+  "display_en": "Art. 288 — Appropriation of the Powers of an Official"
+ },
+ "289": {
+  "name": "Незаконное участие в предпринимательской деятельности",
+  "name_en": "Illegal Participation in Entrepreneurial Activity",
+  "display": "Ст. 289 — Незаконное участие в предпринимательской деятельности",
+  "display_en": "Art. 289 — Illegal Participation in Entrepreneurial Activity"
+ },
+ "290": {
+  "name": "Получение взятки",
+  "name_en": "Receiving a Bribe",
+  "display": "Ст. 290 — Получение взятки",
+  "display_en": "Art. 290 — Receiving a Bribe"
+ },
+ "291": {
+  "name": "Дача взятки",
+  "name_en": "Giving a Bribe",
+  "display": "Ст. 291 — Дача взятки",
+  "display_en": "Art. 291 — Giving a Bribe"
+ },
+ "291.1": {
+  "name": "Посредничество во взяточничестве",
+  "name_en": "Mediation in Bribery",
+  "display": "Ст. 291.1 — Посредничество во взяточничестве",
+  "display_en": "Art. 291.1 — Mediation in Bribery"
+ },
+ "291.2": {
+  "name": "Мелкое взяточничество",
+  "name_en": "Petty Bribery",
+  "display": "Ст. 291.2 — Мелкое взяточничество",
+  "display_en": "Art. 291.2 — Petty Bribery"
+ },
+ "292": {
+  "name": "Служебный подлог",
+  "name_en": "Official Forgery",
+  "display": "Ст. 292 — Служебный подлог",
+  "display_en": "Art. 292 — Official Forgery"
+ },
+ "292.1": {
+  "name": "Незаконная выдача паспорта гражданина Российской Федерации, а равно внесение заведомо ложных сведений в документы, повлекшее незаконное приобретение гражданства Российской Федерации",
+  "name_en": "Illegal Issuance of a Passport of a Citizen of the Russian Federation, and Also Entering Knowingly False Information into Documents Resulting in the Illegal Acquisition of Citizenship of the Russian Federation",
+  "display": "Ст. 292.1 — Незаконная выдача паспорта гражданина Российской Федерации, а равно внесение заведомо ложных сведений в документы, повлекшее незаконное приобретение гражданства Российской Федерации",
+  "display_en": "Art. 292.1 — Illegal Issuance of a Passport of a Citizen of the Russian Federation, and Also Entering Knowingly False Information into Documents Resulting in the Illegal Acquisition of Citizenship of the Russian Federation"
+ },
+ "293": {
+  "name": "Халатность",
+  "name_en": "Negligence",
+  "display": "Ст. 293 — Халатность",
+  "display_en": "Art. 293 — Negligence"
+ },
+ "294": {
+  "name": "Воспрепятствование осуществлению правосудия и производству предварительного расследования",
+  "name_en": "Obstruction of the Administration of Justice and Preliminary Investigation",
+  "display": "Ст. 294 — Воспрепятствование осуществлению правосудия и производству предварительного расследования",
+  "display_en": "Art. 294 — Obstruction of the Administration of Justice and Preliminary Investigation"
+ },
+ "295": {
+  "name": "Посягательство на жизнь лица, осуществляющего правосудие или предварительное расследование",
+  "name_en": "Encroachment on the Life of a Person Administering Justice or a Preliminary Investigation",
+  "display": "Ст. 295 — Посягательство на жизнь лица, осуществляющего правосудие или предварительное расследование",
+  "display_en": "Art. 295 — Encroachment on the Life of a Person Administering Justice or a Preliminary Investigation"
+ },
+ "296": {
+  "name": "Угроза или насильственные действия в связи с осуществлением правосудия или производством предварительного расследования",
+  "name_en": "Threat or Violent Acts in Connection with the Administration of Justice or a Preliminary Investigation",
+  "display": "Ст. 296 — Угроза или насильственные действия в связи с осуществлением правосудия или производством предварительного расследования",
+  "display_en": "Art. 296 — Threat or Violent Acts in Connection with the Administration of Justice or a Preliminary Investigation"
+ },
+ "297": {
+  "name": "Неуважение к суду",
+  "name_en": "Contempt of Court",
+  "display": "Ст. 297 — Неуважение к суду",
+  "display_en": "Art. 297 — Contempt of Court"
+ },
+ "298": {
+  "name": "Утратила силу",
+  "name_en": "Repealed",
+  "display": "Ст. 298 (утратила силу)",
+  "display_en": "Art. 298 (repealed)"
+ },
+ "298.1": {
+  "name": "Клевета в отношении судьи, присяжного заседателя, прокурора, следователя, лица, производящего дознание, сотрудника органов принудительного исполнения Российской Федерации",
+  "name_en": "Slander of a Judge, Juror, Prosecutor, Investigator, Person Conducting an Inquiry, or an Officer of the Bodies of Compulsory Enforcement of the Russian Federation",
+  "display": "Ст. 298.1 — Клевета в отношении судьи, присяжного заседателя, прокурора, следователя, лица, производящего дознание, сотрудника органов принудительного исполнения Российской Федерации",
+  "display_en": "Art. 298.1 — Slander of a Judge, Juror, Prosecutor, Investigator, Person Conducting an Inquiry, or an Officer of the Bodies of Compulsory Enforcement of the Russian Federation"
+ },
+ "299": {
+  "name": "Привлечение заведомо невиновного к уголовной ответственности или незаконное возбуждение уголовного дела",
+  "name_en": "Bringing a Knowingly Innocent Person to Criminal Liability or Illegal Institution of a Criminal Case",
+  "display": "Ст. 299 — Привлечение заведомо невиновного к уголовной ответственности или незаконное возбуждение уголовного дела",
+  "display_en": "Art. 299 — Bringing a Knowingly Innocent Person to Criminal Liability or Illegal Institution of a Criminal Case"
+ },
+ "300": {
+  "name": "Незаконное освобождение от уголовной ответственности",
+  "name_en": "Illegal Release from Criminal Liability",
+  "display": "Ст. 300 — Незаконное освобождение от уголовной ответственности",
+  "display_en": "Art. 300 — Illegal Release from Criminal Liability"
+ },
+ "301": {
+  "name": "Незаконные задержание, заключение под стражу или содержание под стражей",
+  "name_en": "Illegal Detention, Placement in Custody, or Keeping in Custody",
+  "display": "Ст. 301 — Незаконные задержание, заключение под стражу или содержание под стражей",
+  "display_en": "Art. 301 — Illegal Detention, Placement in Custody, or Keeping in Custody"
+ },
+ "302": {
+  "name": "Принуждение к даче показаний",
+  "name_en": "Compulsion to Testify",
+  "display": "Ст. 302 — Принуждение к даче показаний",
+  "display_en": "Art. 302 — Compulsion to Testify"
+ },
+ "303": {
+  "name": "Фальсификация доказательств и результатов оперативно-разыскной деятельности",
+  "name_en": "Falsification of Evidence and of the Results of Operational Search Activity",
+  "display": "Ст. 303 — Фальсификация доказательств и результатов оперативно-разыскной деятельности",
+  "display_en": "Art. 303 — Falsification of Evidence and of the Results of Operational Search Activity"
+ },
+ "304": {
+  "name": "Провокация взятки, коммерческого подкупа либо подкупа в сфере закупок товаров, работ, услуг для обеспечения государственных или муниципальных нужд",
+  "name_en": "Provocation of a Bribe, Commercial Bribery, or a Bribe in the Sphere of Procurement of Goods, Works and Services for State or Municipal Needs",
+  "display": "Ст. 304 — Провокация взятки, коммерческого подкупа либо подкупа в сфере закупок товаров, работ, услуг для обеспечения государственных или муниципальных нужд",
+  "display_en": "Art. 304 — Provocation of a Bribe, Commercial Bribery, or a Bribe in the Sphere of Procurement of Goods, Works and Services for State or Municipal Needs"
+ },
+ "305": {
+  "name": "Вынесение заведомо неправосудных приговора, решения или иного судебного акта",
+  "name_en": "Delivery of a Knowingly Unjust Sentence, Decision, or Other Judicial Act",
+  "display": "Ст. 305 — Вынесение заведомо неправосудных приговора, решения или иного судебного акта",
+  "display_en": "Art. 305 — Delivery of a Knowingly Unjust Sentence, Decision, or Other Judicial Act"
+ },
+ "306": {
+  "name": "Заведомо ложный донос",
+  "name_en": "Knowingly False Denunciation",
+  "display": "Ст. 306 — Заведомо ложный донос",
+  "display_en": "Art. 306 — Knowingly False Denunciation"
+ },
+ "307": {
+  "name": "Заведомо ложные показание, заключение эксперта, специалиста или неправильный перевод",
+  "name_en": "Knowingly False Testimony, Expert or Specialist Opinion, or Incorrect Translation",
+  "display": "Ст. 307 — Заведомо ложные показание, заключение эксперта, специалиста или неправильный перевод",
+  "display_en": "Art. 307 — Knowingly False Testimony, Expert or Specialist Opinion, or Incorrect Translation"
+ },
+ "308": {
+  "name": "Отказ свидетеля или потерпевшего от дачи показаний",
+  "name_en": "Refusal of a Witness or Victim to Testify",
+  "display": "Ст. 308 — Отказ свидетеля или потерпевшего от дачи показаний",
+  "display_en": "Art. 308 — Refusal of a Witness or Victim to Testify"
+ },
+ "309": {
+  "name": "Подкуп или принуждение к даче показаний или уклонению от дачи показаний либо к неправильному переводу",
+  "name_en": "Bribery or Compulsion to Testify or to Evade Testifying, or to Mistranslate",
+  "display": "Ст. 309 — Подкуп или принуждение к даче показаний или уклонению от дачи показаний либо к неправильному переводу",
+  "display_en": "Art. 309 — Bribery or Compulsion to Testify or to Evade Testifying, or to Mistranslate"
+ },
+ "310": {
+  "name": "Разглашение данных предварительного расследования",
+  "name_en": "Disclosure of Data of a Preliminary Investigation",
+  "display": "Ст. 310 — Разглашение данных предварительного расследования",
+  "display_en": "Art. 310 — Disclosure of Data of a Preliminary Investigation"
+ },
+ "311": {
+  "name": "Разглашение сведений о мерах безопасности, применяемых в отношении судьи и участников уголовного процесса",
+  "name_en": "Disclosure of Information on Security Measures Applied to a Judge and Participants in Criminal Proceedings",
+  "display": "Ст. 311 — Разглашение сведений о мерах безопасности, применяемых в отношении судьи и участников уголовного процесса",
+  "display_en": "Art. 311 — Disclosure of Information on Security Measures Applied to a Judge and Participants in Criminal Proceedings"
+ },
+ "312": {
+  "name": "Незаконные действия в отношении имущества, подвергнутого описи или аресту либо подлежащего конфискации",
+  "name_en": "Illegal Actions in Respect of Property Subjected to Inventory or Seizure, or Subject to Confiscation",
+  "display": "Ст. 312 — Незаконные действия в отношении имущества, подвергнутого описи или аресту либо подлежащего конфискации",
+  "display_en": "Art. 312 — Illegal Actions in Respect of Property Subjected to Inventory or Seizure, or Subject to Confiscation"
+ },
+ "313": {
+  "name": "Побег из места лишения свободы, из-под ареста или из-под стражи",
+  "name_en": "Escape from a Place of Deprivation of Liberty, from Arrest, or from Custody",
+  "display": "Ст. 313 — Побег из места лишения свободы, из-под ареста или из-под стражи",
+  "display_en": "Art. 313 — Escape from a Place of Deprivation of Liberty, from Arrest, or from Custody"
+ },
+ "314": {
+  "name": "Уклонение от отбывания ограничения свободы, лишения свободы, а также от применения принудительных мер медицинского характера",
+  "name_en": "Evasion of Serving a Sentence of Restriction of Liberty, Deprivation of Liberty, or of the Application of Compulsory Medical Measures",
+  "display": "Ст. 314 — Уклонение от отбывания ограничения свободы, лишения свободы, а также от применения принудительных мер медицинского характера",
+  "display_en": "Art. 314 — Evasion of Serving a Sentence of Restriction of Liberty, Deprivation of Liberty, or of the Application of Compulsory Medical Measures"
+ },
+ "314.1": {
+  "name": "Уклонение от административного надзора или неоднократное несоблюдение установленных судом ограничений",
+  "name_en": "Evasion of Administrative Supervision or Repeated Non-Compliance with Restrictions Established by a Court",
+  "display": "Ст. 314.1 — Уклонение от административного надзора или неоднократное несоблюдение установленных судом ограничений",
+  "display_en": "Art. 314.1 — Evasion of Administrative Supervision or Repeated Non-Compliance with Restrictions Established by a Court"
+ },
+ "315": {
+  "name": "Неисполнение приговора суда, решения суда или иного судебного акта",
+  "name_en": "Non-Enforcement of a Court Sentence, Court Decision, or Other Judicial Act",
+  "display": "Ст. 315 — Неисполнение приговора суда, решения суда или иного судебного акта",
+  "display_en": "Art. 315 — Non-Enforcement of a Court Sentence, Court Decision, or Other Judicial Act"
+ },
+ "316": {
+  "name": "Укрывательство преступлений",
+  "name_en": "Harbouring of Crimes",
+  "display": "Ст. 316 — Укрывательство преступлений",
+  "display_en": "Art. 316 — Harbouring of Crimes"
+ },
+ "317": {
+  "name": "Посягательство на жизнь сотрудника правоохранительного органа",
+  "name_en": "Encroachment on the Life of a Law-Enforcement Officer",
+  "display": "Ст. 317 — Посягательство на жизнь сотрудника правоохранительного органа",
+  "display_en": "Art. 317 — Encroachment on the Life of a Law-Enforcement Officer"
+ },
+ "318": {
+  "name": "Применение насилия в отношении представителя власти",
+  "name_en": "Use of Violence Against a Representative of the Authorities",
+  "display": "Ст. 318 — Применение насилия в отношении представителя власти",
+  "display_en": "Art. 318 — Use of Violence Against a Representative of the Authorities"
+ },
+ "319": {
+  "name": "Оскорбление представителя власти",
+  "name_en": "Insulting a Representative of the Authorities",
+  "display": "Ст. 319 — Оскорбление представителя власти",
+  "display_en": "Art. 319 — Insulting a Representative of the Authorities"
+ },
+ "320": {
+  "name": "Разглашение сведений о мерах безопасности, применяемых в отношении должностного лица правоохранительного или контролирующего органа",
+  "name_en": "Disclosure of Information on Security Measures Applied to an Official of a Law-Enforcement or Supervisory Body",
+  "display": "Ст. 320 — Разглашение сведений о мерах безопасности, применяемых в отношении должностного лица правоохранительного или контролирующего органа",
+  "display_en": "Art. 320 — Disclosure of Information on Security Measures Applied to an Official of a Law-Enforcement or Supervisory Body"
+ },
+ "321": {
+  "name": "Дезорганизация деятельности учреждений, обеспечивающих изоляцию от общества",
+  "name_en": "Disorganizing the Activity of Institutions Ensuring Isolation from Society",
+  "display": "Ст. 321 — Дезорганизация деятельности учреждений, обеспечивающих изоляцию от общества",
+  "display_en": "Art. 321 — Disorganizing the Activity of Institutions Ensuring Isolation from Society"
+ },
+ "321.1": {
+  "name": "Передача лицу, содержащемуся в месте лишения свободы или месте содержания под стражей, средств мобильной связи и иных средств коммуникации",
+  "name_en": "Transfer to a Person Held in a Place of Deprivation of Liberty or a Place of Detention of Means of Mobile Communication and Other Means of Communication",
+  "display": "Ст. 321.1 — Передача лицу, содержащемуся в месте лишения свободы или месте содержания под стражей, средств мобильной связи и иных средств коммуникации",
+  "display_en": "Art. 321.1 — Transfer to a Person Held in a Place of Deprivation of Liberty or a Place of Detention of Means of Mobile Communication and Other Means of Communication"
+ },
+ "322": {
+  "name": "Незаконное пересечение Государственной границы Российской Федерации",
+  "name_en": "Illegal Crossing of the State Border of the Russian Federation",
+  "display": "Ст. 322 — Незаконное пересечение Государственной границы Российской Федерации",
+  "display_en": "Art. 322 — Illegal Crossing of the State Border of the Russian Federation"
+ },
+ "322.1": {
+  "name": "Организация незаконной миграции",
+  "name_en": "Organization of Illegal Migration",
+  "display": "Ст. 322.1 — Организация незаконной миграции",
+  "display_en": "Art. 322.1 — Organization of Illegal Migration"
+ },
+ "322.2": {
+  "name": "Фиктивная регистрация гражданина Российской Федерации по месту пребывания или по месту жительства, фиктивная регистрация иностранного гражданина или лица без гражданства",
+  "name_en": "Fictitious Registration of a Citizen of the Russian Federation at the Place of Stay or Residence, Fictitious Registration of a Foreign Citizen or Stateless Person",
+  "display": "Ст. 322.2 — Фиктивная регистрация гражданина Российской Федерации по месту пребывания или по месту жительства, фиктивная регистрация иностранного гражданина или лица без гражданства",
+  "display_en": "Art. 322.2 — Fictitious Registration of a Citizen of the Russian Federation at the Place of Stay or Residence, Fictitious Registration of a Foreign Citizen or Stateless Person"
+ },
+ "322.3": {
+  "name": "Фиктивная постановка на учет иностранного гражданина или лица без гражданства по месту пребывания в Российской Федерации",
+  "name_en": "Fictitious Registration of a Foreign Citizen or Stateless Person for Migration Purposes at the Place of Stay in the Russian Federation",
+  "display": "Ст. 322.3 — Фиктивная постановка на учет иностранного гражданина или лица без гражданства по месту пребывания в Российской Федерации",
+  "display_en": "Art. 322.3 — Fictitious Registration of a Foreign Citizen or Stateless Person for Migration Purposes at the Place of Stay in the Russian Federation"
+ },
+ "323": {
+  "name": "Противоправное изменение Государственной границы Российской Федерации",
+  "name_en": "Unlawful Alteration of the State Border of the Russian Federation",
+  "display": "Ст. 323 — Противоправное изменение Государственной границы Российской Федерации",
+  "display_en": "Art. 323 — Unlawful Alteration of the State Border of the Russian Federation"
+ },
+ "324": {
+  "name": "Приобретение или сбыт официальных документов и государственных наград",
+  "name_en": "Acquisition or Sale of Official Documents and State Awards",
+  "display": "Ст. 324 — Приобретение или сбыт официальных документов и государственных наград",
+  "display_en": "Art. 324 — Acquisition or Sale of Official Documents and State Awards"
+ },
+ "325": {
+  "name": "Похищение или повреждение документов, штампов, печатей либо похищение акцизных марок, специальных марок или знаков соответствия",
+  "name_en": "Theft or Damage of Documents, Stamps, or Seals, or Theft of Excise Stamps, Special Stamps, or Conformity Marks",
+  "display": "Ст. 325 — Похищение или повреждение документов, штампов, печатей либо похищение акцизных марок, специальных марок или знаков соответствия",
+  "display_en": "Art. 325 — Theft or Damage of Documents, Stamps, or Seals, or Theft of Excise Stamps, Special Stamps, or Conformity Marks"
+ },
+ "325.1": {
+  "name": "Неправомерное завладение государственным регистрационным знаком транспортного средства",
+  "name_en": "Unlawful Taking Possession of a State Registration Plate of a Vehicle",
+  "display": "Ст. 325.1 — Неправомерное завладение государственным регистрационным знаком транспортного средства",
+  "display_en": "Art. 325.1 — Unlawful Taking Possession of a State Registration Plate of a Vehicle"
+ },
+ "326": {
+  "name": "Подделка или уничтожение идентификационного номера транспортного средства",
+  "name_en": "Forgery or Destruction of the Identification Number of a Vehicle",
+  "display": "Ст. 326 — Подделка или уничтожение идентификационного номера транспортного средства",
+  "display_en": "Art. 326 — Forgery or Destruction of the Identification Number of a Vehicle"
+ },
+ "327": {
+  "name": "Подделка, изготовление или оборот поддельных документов, государственных наград, штампов, печатей или бланков",
+  "name_en": "Forgery, Manufacture or Circulation of Forged Documents, State Awards, Stamps, Seals, or Forms",
+  "display": "Ст. 327 — Подделка, изготовление или оборот поддельных документов, государственных наград, штампов, печатей или бланков",
+  "display_en": "Art. 327 — Forgery, Manufacture or Circulation of Forged Documents, State Awards, Stamps, Seals, or Forms"
+ },
+ "327.1": {
+  "name": "Изготовление, сбыт поддельных акцизных марок, федеральных специальных марок, специальных марок, средств идентификации или знаков соответствия либо их использование",
+  "name_en": "Manufacture, Sale of Forged Excise Stamps, Federal Special Stamps, Special Stamps, Means of Identification or Conformity Marks, or Use Thereof",
+  "display": "Ст. 327.1 — Изготовление, сбыт поддельных акцизных марок, федеральных специальных марок, специальных марок, средств идентификации или знаков соответствия либо их использование",
+  "display_en": "Art. 327.1 — Manufacture, Sale of Forged Excise Stamps, Federal Special Stamps, Special Stamps, Means of Identification or Conformity Marks, or Use Thereof"
+ },
+ "327.2": {
+  "name": "Подделка документов на лекарственные средства или медицинские изделия или упаковки лекарственных средств или медицинских изделий",
+  "name_en": "Forgery of Documents for Medicines or Medical Devices, or of the Packaging of Medicines or Medical Devices",
+  "display": "Ст. 327.2 — Подделка документов на лекарственные средства или медицинские изделия или упаковки лекарственных средств или медицинских изделий",
+  "display_en": "Art. 327.2 — Forgery of Documents for Medicines or Medical Devices, or of the Packaging of Medicines or Medical Devices"
+ },
+ "328": {
+  "name": "Уклонение от прохождения военной и альтернативной гражданской службы",
+  "name_en": "Evasion of Military and Alternative Civilian Service",
+  "display": "Ст. 328 — Уклонение от прохождения военной и альтернативной гражданской службы",
+  "display_en": "Art. 328 — Evasion of Military and Alternative Civilian Service"
+ },
+ "329": {
+  "name": "Надругательство над Государственным гербом Российской Федерации или Государственным флагом Российской Федерации",
+  "name_en": "Desecration of the State Emblem of the Russian Federation or of the State Flag of the Russian Federation",
+  "display": "Ст. 329 — Надругательство над Государственным гербом Российской Федерации или Государственным флагом Российской Федерации",
+  "display_en": "Art. 329 — Desecration of the State Emblem of the Russian Federation or of the State Flag of the Russian Federation"
+ },
+ "330": {
+  "name": "Самоуправство",
+  "name_en": "Arbitrariness (Self-Redress)",
+  "display": "Ст. 330 — Самоуправство",
+  "display_en": "Art. 330 — Arbitrariness (Self-Redress)"
+ },
+ "330.1": {
+  "name": "Уклонение от исполнения обязанностей, предусмотренных законодательством Российской Федерации об иностранных агентах",
+  "name_en": "Evasion of Performance of Duties Provided for by the Legislation of the Russian Federation on Foreign Agents",
+  "display": "Ст. 330.1 — Уклонение от исполнения обязанностей, предусмотренных законодательством Российской Федерации об иностранных агентах",
+  "display_en": "Art. 330.1 — Evasion of Performance of Duties Provided for by the Legislation of the Russian Federation on Foreign Agents"
+ },
+ "330.2": {
+  "name": "Неисполнение обязанности по подаче уведомления о наличии у гражданина Российской Федерации гражданства (подданства) иностранного государства либо вида на жительство",
+  "name_en": "Non-Performance of the Duty to Submit Notification of a Citizen of the Russian Federation Holding Citizenship (Nationality) of a Foreign State or a Residence Permit",
+  "display": "Ст. 330.2 — Неисполнение обязанности по подаче уведомления о наличии у гражданина Российской Федерации гражданства (подданства) иностранного государства либо вида на жительство",
+  "display_en": "Art. 330.2 — Non-Performance of the Duty to Submit Notification of a Citizen of the Russian Federation Holding Citizenship (Nationality) of a Foreign State or a Residence Permit"
+ },
+ "330.3": {
+  "name": "Осуществление деятельности на территории Российской Федерации иностранной или международной некоммерческой неправительственной организации без регистрации структурного подразделения",
+  "name_en": "Carrying Out Activity on the Territory of the Russian Federation of a Foreign or International Non-Profit Non-Governmental Organization Without Registering a Structural Unit",
+  "display": "Ст. 330.3 — Осуществление деятельности на территории Российской Федерации иностранной или международной некоммерческой неправительственной организации без регистрации структурного подразделения",
+  "display_en": "Art. 330.3 — Carrying Out Activity on the Territory of the Russian Federation of a Foreign or International Non-Profit Non-Governmental Organization Without Registering a Structural Unit"
+ },
+ "353": {
+  "name": "Планирование, подготовка, развязывание или ведение агрессивной войны",
+  "name_en": "Planning, Preparation, Unleashing or Waging of an Aggressive War",
+  "display": "Ст. 353 — Планирование, подготовка, развязывание или ведение агрессивной войны",
+  "display_en": "Art. 353 — Planning, Preparation, Unleashing or Waging of an Aggressive War"
+ },
+ "354": {
+  "name": "Публичные призывы к развязыванию агрессивной войны",
+  "name_en": "Public Calls for Unleashing an Aggressive War",
+  "display": "Ст. 354 — Публичные призывы к развязыванию агрессивной войны",
+  "display_en": "Art. 354 — Public Calls for Unleashing an Aggressive War"
+ },
+ "354.1": {
+  "name": "Реабилитация нацизма",
+  "name_en": "Rehabilitation of Nazism",
+  "display": "Ст. 354.1 — Реабилитация нацизма",
+  "display_en": "Art. 354.1 — Rehabilitation of Nazism"
+ },
+ "355": {
+  "name": "Разработка, производство, накопление, приобретение или сбыт оружия массового поражения",
+  "name_en": "Development, Production, Stockpiling, Acquisition or Sale of Weapons of Mass Destruction",
+  "display": "Ст. 355 — Разработка, производство, накопление, приобретение или сбыт оружия массового поражения",
+  "display_en": "Art. 355 — Development, Production, Stockpiling, Acquisition or Sale of Weapons of Mass Destruction"
+ },
+ "356": {
+  "name": "Применение запрещенных средств и методов ведения войны",
+  "name_en": "Use of Prohibited Means and Methods of Warfare",
+  "display": "Ст. 356 — Применение запрещенных средств и методов ведения войны",
+  "display_en": "Art. 356 — Use of Prohibited Means and Methods of Warfare"
+ },
+ "356.1": {
+  "name": "Мародерство",
+  "name_en": "Marauding",
+  "display": "Ст. 356.1 — Мародерство",
+  "display_en": "Art. 356.1 — Marauding"
+ },
+ "357": {
+  "name": "Геноцид",
+  "name_en": "Genocide",
+  "display": "Ст. 357 — Геноцид",
+  "display_en": "Art. 357 — Genocide"
+ },
+ "358": {
+  "name": "Экоцид",
+  "name_en": "Ecocide",
+  "display": "Ст. 358 — Экоцид",
+  "display_en": "Art. 358 — Ecocide"
+ },
+ "359": {
+  "name": "Наемничество",
+  "name_en": "Mercenarism",
+  "display": "Ст. 359 — Наемничество",
+  "display_en": "Art. 359 — Mercenarism"
+ },
+ "360": {
+  "name": "Нападение на лиц или учреждения, которые пользуются международной защитой, либо угроза его совершения",
+  "name_en": "Attack on Persons or Institutions Enjoying International Protection, or a Threat Thereof",
+  "display": "Ст. 360 — Нападение на лиц или учреждения, которые пользуются международной защитой, либо угроза его совершения",
+  "display_en": "Art. 360 — Attack on Persons or Institutions Enjoying International Protection, or a Threat Thereof"
+ },
+ "361": {
+  "name": "Акт международного терроризма",
+  "name_en": "Act of International Terrorism",
+  "display": "Ст. 361 — Акт международного терроризма",
+  "display_en": "Art. 361 — Act of International Terrorism"
+ }
+}
