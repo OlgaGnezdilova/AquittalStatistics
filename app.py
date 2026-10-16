@@ -60,9 +60,8 @@ T = {
         "dl_csv": "Скачать таблицу приложения (CSV): статья × год",
         "year_warning": """
         <b>Данные за 2025 год — с оговорками.</b><br>
-        1) В своде 2025 г. нет показателей судов ДНР, ЛНР, Запорожской и Херсонской областей; в отчётах за прошлые годы такой пометки нет, поэтому охват судов в 2025 и ранее может отличаться.<br>
-        2) В отчёте 2025 г. не опубликованы строки по ст. 275–284.3 и 330.1 УК РФ (по ним показано «н/д»), а также строка «Воинские преступления». Это пропуск данных, а не отсутствие дел.<br>
-        3) Падение общего числа осуждённых в 2025 г. (437,8 тыс. против 512,8 тыс. в 2024 г.) нельзя считать реальным сокращением преступности или репрессий: оно частично объясняется сменой охвата и пропусками.
+        1) В отчёте 2025 г. не опубликованы строки по ст. 275–284.3 и 330.1 УК РФ (по ним показано «н/д»), а также строка «Воинские преступления». Это пропуск данных, а не отсутствие дел.<br>
+        2) Падение общего числа осуждённых в 2025 г. (437,8 тыс. против 512,8 тыс. в 2024 г.) нельзя считать реальным сокращением преступности или репрессий: оно частично объясняется пропусками данных.
         """,
         "total_caption": "Всего рассмотрено лиц {year_phrase}:",
         "m_acquitted": "Оправдано",
@@ -73,7 +72,22 @@ T = {
         "metric_note": "Проценты — доля от «всего рассмотрено» (в сумме по всем пяти показателям дают 100%).",
         "trend_title": "Динамика доли оправдательных по годам",
         "sentencing_title": "Размеры наказаний по статье",
-        "term_title": "Лишение свободы — распределение сроков ({n} осуждено к л/с)",
+        "kinds_title": "Какое наказание получили осуждённые",
+        "cond_share": "Условное осуждение к лишению свободы — {pct}% от всех приговорённых к лишению свободы ({cond} из {custodial}; реальное, включая пожизненное, и условное вместе)",
+        "k_prison": "Реальное лишение свободы на срок",
+        "k_life": "Пожизненное лишение свободы",
+        "k_cond_prison": "Условное осуждение к лишению свободы",
+        "k_cond_other": "Условное осуждение к иным мерам",
+        "k_fine": "Штраф (основное наказание)",
+        "k_other_main": "Иные основные наказания (работы, ограничение свободы, арест, лишение права, воинские)",
+        "k_released": "Освобождены от наказания / наказание не назначено",
+        "k_unallocated": "Не распределено в форме (расхождение внутри отчёта)",
+        "k_total": "Всего осуждено",
+        "k_persons": "лиц",
+        "k_share": "% от осуждённых",
+        "terms_note": "В распределение сроков входит только реальное лишение свободы на срок; остальные осуждённые — в таблице выше.",
+        "terms_gap": "Ещё {n} осуждены к лишению свободы, но в форме 10.3.1 не распределены по срокам.",
+        "term_title": "Лишение свободы на срок — распределение сроков ({n} осуждено)",
         "below_min": "Из них ниже низшего предела: {n}",
         "fine_main_title": "Штраф (основное наказание) — {n} осуждено",
         "fine_add_title": "Штраф (дополнительное наказание) — {n} осуждено",
@@ -94,6 +108,8 @@ T = {
         приговоры, где статья упоминалась.<br>
         С 2025 г. в форме 10.3 не заполняется графа «прекращено по амнистии» (в 2024 г. — 11 человек по всей стране),
         поэтому «нереабилитирующие основания» за 2025 г. могут быть занижены на эту величину.<br>
+        Доля условного осуждения = условно осуждённые к лишению свободы ÷ (все приговорённые к лишению свободы: реально, включая пожизненное, + условно).
+        Доля от всех осуждённых показана в таблице видов наказания.<br>
         Показатели за 2021–2022 гг. по ряду статей учтены в сводных строках отчёта и отнесены к первой статье строки.<br><br>
         Названия статей на английском — авторский перевод (единого актуального официального
         перевода УК РФ на английский не существует).
@@ -127,9 +143,8 @@ T = {
         "dl_csv": "Download the app's table (CSV): article × year",
         "year_warning": """
         <b>2025 data come with caveats.</b><br>
-        1) The 2025 summary excludes the courts of the DNR, LNR, Zaporozhye and Kherson regions; earlier reports carry no such note, so court coverage in 2025 and before may differ.<br>
-        2) The 2025 report does not publish rows for Arts. 275–284.3 and 330.1 of the Criminal Code (shown as "n/a") nor the "Military crimes" row. This is missing data, not an absence of persons.<br>
-        3) The drop in the total number of convictions in 2025 (437.8k vs 512.8k in 2024) cannot be read as a real decline in crime or repression: it is partly explained by the change in coverage and by omissions.
+        1) The 2025 report does not publish rows for Arts. 275–284.3 and 330.1 of the Criminal Code (shown as "n/a") nor the "Military crimes" row. This is missing data, not an absence of persons.<br>
+        2) The drop in the total number of convictions in 2025 (437.8k vs 512.8k in 2024) cannot be read as a real decline in crime or repression: it is partly explained by omissions in the data.
         """,
         "total_caption": "Total persons considered {year_phrase}:",
         "m_acquitted": "Acquitted",
@@ -140,7 +155,22 @@ T = {
         "metric_note": "Percentages are the share of \"total persons considered\" (all five figures sum to 100%).",
         "trend_title": "Acquittal rate trend by year",
         "sentencing_title": "Sentence sizes for this article",
-        "term_title": "Imprisonment — term distribution ({n} sentenced to imprisonment)",
+        "kinds_title": "What the convicted received",
+        "cond_share": "Suspended sentences of imprisonment — {pct}% of everyone sentenced to imprisonment ({cond} of {custodial}; actual, incl. life, plus suspended)",
+        "k_prison": "Actual imprisonment for a term",
+        "k_life": "Life imprisonment",
+        "k_cond_prison": "Suspended sentence of imprisonment",
+        "k_cond_other": "Suspended sentence of other punishments",
+        "k_fine": "Fine (principal punishment)",
+        "k_other_main": "Other principal punishments (labour, restriction of liberty, arrest, disqualification, military)",
+        "k_released": "Released from punishment / no punishment imposed",
+        "k_unallocated": "Not allocated in the form (inconsistency inside the report)",
+        "k_total": "Total convicted",
+        "k_persons": "persons",
+        "k_share": "% of convicted",
+        "terms_note": "The term distribution covers actual imprisonment for a term only; the other convicted persons are in the table above.",
+        "terms_gap": "Another {n} were sentenced to imprisonment but are not broken down by term in form 10.3.1.",
+        "term_title": "Imprisonment for a term — distribution of terms ({n} sentenced)",
         "below_min": "Of which below the statutory minimum: {n}",
         "fine_main_title": "Fine (principal punishment) — {n} sentenced",
         "fine_add_title": "Fine (additional punishment) — {n} sentenced",
@@ -160,6 +190,8 @@ T = {
         in which the article was mentioned.<br>
         From 2025 the form 10.3 column "terminated due to amnesty" is no longer filled in (11 people nationwide in 2024),
         so "non-exculpatory grounds" for 2025 may be understated by that amount.<br>
+        Suspended-sentence share = persons given suspended imprisonment ÷ (all persons sentenced to imprisonment: actual, incl. life, + suspended).
+        The share of all convicted persons is given in the table of punishment types.<br>
         For some articles, figures for 2021–2022 sit in combined rows of the report and are attributed to the first article of the row.<br><br>
         English article titles are an original translation by the author — no single up-to-date official
         English translation of the Russian Criminal Code exists.
@@ -222,7 +254,9 @@ def read_bytes(path):
 def table_csv():
     """Таблица, которую показывает приложение: статья × год (для скачивания)."""
     fields = ["convicted", "acquitted", "term_rehab", "term_nonrehab", "medical", "total",
-              "pct_acquitted", "pct_convicted", "pct_term_rehab", "pct_term_nonrehab", "pct_medical", "pct_of_verdicts"]
+              "pct_acquitted", "pct_convicted", "pct_term_rehab", "pct_term_nonrehab", "pct_medical", "pct_of_verdicts",
+              "sent_prison", "sent_life", "sent_cond_prison", "sent_cond_other", "sent_fine", "sent_other_main",
+              "sent_released", "sent_unallocated", "pct_cond_of_custodial"]
     buf = io.StringIO()
     w = csv.writer(buf)
     w.writerow(["article", "name", "year"] + fields)
@@ -233,8 +267,20 @@ def table_csv():
     return buf.getvalue().encode("utf-8-sig")
 
 
-# ---------- Language toggle button ----------
+# ---------- Language toggle button + downloads of the source files ----------
 top_l, top_r = st.columns([5, 1])
+with top_l:
+    with st.expander(t["dl_title"]):
+        st.caption(t["dl_note"])
+        for kind, label in (("10_3", t["dl_form_103"]), ("10_3_1", t["dl_form_1031"])):
+            st.markdown(f"**{label}**")
+            cols = st.columns(5)
+            for i, y in enumerate(years):
+                path = forms.RAW / f"form_{kind}_{y}.xls"
+                cols[i % 5].download_button(str(y), data=read_bytes(path), file_name=path.name,
+                                            mime="application/vnd.ms-excel", key=f"dl_{kind}_{y}")
+        st.download_button(t["dl_csv"], data=table_csv(), file_name="outcomes_by_article_year.csv",
+                           mime="text/csv", key="dl_csv")
 with top_r:
     st.button(
         "EN" if lang == "ru" else "RU",
@@ -404,6 +450,34 @@ else:
 
     render(f'<div class="trend-block">{"".join(trend_rows)}</div>')
 
+    # ---------- Какое наказание получили осуждённые (форма 10.3) ----------
+    if not year_unpublished and year_data and year_data["convicted"] > 0:
+        def n_fmt(n):
+            return f"{n:,}".replace(",", " ")
+
+        conv = year_data["convicted"]
+        kind_rows = []
+        for key in ("prison", "life", "cond_prison", "cond_other", "fine", "other_main", "released", "unallocated"):
+            n = year_data["sent_" + key]
+            if n == 0 and key in ("other_main", "unallocated", "cond_other", "fine"):
+                continue                       # пустые строки не показываем, кроме основных
+            kind_rows.append(f"<tr><td>{t['k_' + key]}</td><td>{n_fmt(n)}</td><td>{n / conv * 100:.1f}%</td></tr>")
+        cond_line = ""
+        if year_data["custodial_total"] and year_data["sent_cond_prison"]:
+            cond_line = '<div class="cond-share">' + t["cond_share"].format(
+                pct=f"{year_data['pct_cond_of_custodial']:.1f}", cond=n_fmt(year_data["sent_cond_prison"]),
+                custodial=n_fmt(year_data["custodial_total"])) + "</div>"
+        render(f'<div class="trend-title">{t["kinds_title"]}</div>')
+        render(f"""
+        <div class="kinds-wrap">{cond_line}
+        <table class="kinds-table">
+        <thead><tr><th></th><th>{t['k_persons']}</th><th>{t['k_share']}</th></tr></thead>
+        <tbody>{''.join(kind_rows)}</tbody>
+        <tfoot><tr><td>{t['k_total']}</td><td>{n_fmt(conv)}</td><td>100%</td></tr></tfoot>
+        </table>
+        </div>
+        """)
+
     # ---------- Sentencing sizes (form 10.3.1) ----------
     sd = sentencing_data.get("data", {}).get(selected_num) if sentencing_data else None
     year_sd = sd.get(selected_year) if sd else None
@@ -440,6 +514,9 @@ else:
             below_min = year_sd.get("below_minimum_imprisonment", 0)
             rows_html = bucket_rows(term_buckets, term_total)
             below_note = f'<div class="sentencing-note">{t["below_min"].format(n=below_min)}</div>' if below_min else ""
+            gap = year_sd.get("imprisonment_total", 0) - term_total          # л/с «всего» минус сумма интервалов
+            gap_note = f'<div class="sentencing-note">{t["terms_gap"].format(n=gap)}</div>' if gap > 0 else ""
+            below_note += gap_note + f'<div class="sentencing-note">{t["terms_note"]}</div>'
             sections.append(html(f"""
             <div class="sentencing-title">{t['term_title'].format(n=term_total)}</div>
             <div class="sentencing-block">{rows_html}</div>
@@ -505,19 +582,6 @@ else:
 # ---------- Caveat for 2025 ----------
 if selected_year in ("ALL", "2025"):
     render(f'<div class="year-warning">{html(t["year_warning"])}</div>')
-
-# ---------- Downloads: original forms + computed table ----------
-with st.expander(t["dl_title"]):
-    st.caption(t["dl_note"])
-    for kind, label in (("10_3", t["dl_form_103"]), ("10_3_1", t["dl_form_1031"])):
-        st.markdown(f"**{label}**")
-        cols = st.columns(5)
-        for i, y in enumerate(years):
-            path = forms.RAW / f"form_{kind}_{y}.xls"
-            cols[i % 5].download_button(str(y), data=read_bytes(path), file_name=path.name,
-                                        mime="application/vnd.ms-excel", key=f"dl_{kind}_{y}")
-    st.download_button(t["dl_csv"], data=table_csv(), file_name="outcomes_by_article_year.csv",
-                       mime="text/csv", key="dl_csv")
 
 # ---------- Footer ----------
 footer_text = html(t['footer'])

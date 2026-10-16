@@ -29,6 +29,16 @@ OUTCOME_COLUMNS = {
     "other_grounds": ["прекращено", "по другим основаниям"],
     "medical":       ["принудительные меры"],
 }
+# Виды наказания (форма 10.3, графы 3–15 и «освобождено от наказания»): ключ -> с чего начинается подпись графы.
+# Графа без подписи (в 2025 г. пустые «дисциплинарная часть» и «ограничение по военной службе») попадает в other_main.
+PUNISHMENT_COLUMNS = {
+    "life":        "пожизненное",
+    "prison":      "лишение свободы",
+    "cond_prison": "условное осуждение к лишению",
+    "cond_other":  "условное осуждение к иным",
+    "fine":        "штраф",
+}
+PUNISHMENT_KEYS = list(PUNISHMENT_COLUMNS) + ["other_main", "released"]
 TERMS = {"до 1 года": "term_up_to_1y", "свыше 1 до 2": "term_1_2y", "свыше 2 до 3": "term_2_3y",
          "свыше 3 до 5": "term_3_5y", "свыше 5 до 8": "term_5_8y", "свыше 8 до 10": "term_8_10y",
          "свыше 10 до 15": "term_10_15y", "свыше 15 до 20": "term_15_20y"}
@@ -95,6 +105,23 @@ def header_texts(head, levels):
     return texts
 
 
+def punishment_columns(path):
+    """Форма 10.3: {ключ: [номера колонок]} для видов наказания. Вместе с освобождёнными от наказания
+    эти колонки раскладывают ВСЕХ осуждённых без остатка (проверено по всем годам, см. README)."""
+    head, _ = read_sheet(path)
+    group = header_texts(head, [4])                                     # «виды основного наказания» / «по приговору освобождено…»
+    own = [" ".join(str(v).split()).lower().translate(LATIN_TO_CYRILLIC) for v in head[5]]   # подпись самой графы, без растягивания
+    cols = {k: [] for k in PUNISHMENT_KEYS}
+    for c in range(3, len(group)):
+        if "виды основного наказания" in group[c]:
+            key = next((k for k, start in PUNISHMENT_COLUMNS.items()
+                        if own[c].startswith(start) and (k != "prison" or own[c] == start)), "other_main")
+            cols[key].append(c)
+        elif "по приговору освобождено" in group[c]:
+            cols["released"].append(c)
+    return cols
+
+
 def find_columns(path, kind):
     head, _ = read_sheet(path)
     cols = {}
@@ -121,6 +148,7 @@ def sum_by_article(year, kind):
     """{номер статьи: {показатель: сумма по всем её частям и редакциям}}"""
     path = RAW / f"form_{kind.replace('.', '_')}_{year}.xls"
     cols = find_columns(path, kind)
+    punish = punishment_columns(path) if kind == "10.3" else {}
     _, rows = read_sheet(path)
     out = defaultdict(lambda: defaultdict(int))
     for r in rows:
@@ -129,6 +157,8 @@ def sum_by_article(year, kind):
         if m:                                     # строки без номера («Воинские преступления», итоги) пропускаем
             for key, c in cols.items():
                 out[m.group(1)][key] += int(number(r[c]))
+            for key, cs in punish.items():
+                out[m.group(1)][key] += sum(int(number(r[c])) for c in cs)
     return out
 
 
@@ -140,7 +170,14 @@ def outcomes(c):
     """Показатели приложения из сумм по колонкам формы 10.3."""
     nonrehab = c["amnesty"] + c["reconciled"] + c["repentance"] + c["court_fine"] + c["other_grounds"]
     total = c["convicted"] + c["acquitted"] + c["term_rehab"] + nonrehab + c["medical"]
-    return {"convicted": c["convicted"], "acquitted": c["acquitted"], "term_rehab": c["term_rehab"],
+    sentence = {"sent_" + k: c[k] for k in PUNISHMENT_KEYS}
+    # остаток = осуждено − всё распределённое по видам наказания; в форме он почти всегда 0
+    # (единичные расхождения есть в самих таблицах 2016, 2017 и 2025 гг.) — показываем его явно, чтобы сумма сходилась
+    sentence["sent_unallocated"] = c["convicted"] - sum(c[k] for k in PUNISHMENT_KEYS)
+    custodial = c["life"] + c["prison"] + c["cond_prison"]            # все приговорённые к лишению свободы: реально и условно
+    sentence["pct_cond_of_custodial"] = pct(c["cond_prison"], custodial)
+    sentence["custodial_total"] = custodial
+    return {**sentence, "convicted": c["convicted"], "acquitted": c["acquitted"], "term_rehab": c["term_rehab"],
             "term_nonrehab": nonrehab, "medical": c["medical"], "total": total,
             "pct_acquitted": pct(c["acquitted"], total), "pct_convicted": pct(c["convicted"], total),
             "pct_term_rehab": pct(c["term_rehab"], total), "pct_term_nonrehab": pct(nonrehab, total),
@@ -165,7 +202,7 @@ def build(names):
                 continue
             c = by_year[y].get(num, defaultdict(int))
             years[str(y)] = outcomes(c)
-            for k in OUTCOME_COLUMNS:
+            for k in [*OUTCOME_COLUMNS, *PUNISHMENT_KEYS]:
                 all_c[k] += c[k]
             s = {k: v for k, v in sent_year[y].get(num, {}).items() if v}
             sent[str(y)] = s
